@@ -1,1 +1,9 @@
-FGPAT test successful!
+{
+  "message": "Hello from combined GitHub test!",
+  "time": "2025-11-13T16:56:27.218Z",
+  "items": [
+    "apple",
+    "banana",
+    "cherry"
+  ]
+}
