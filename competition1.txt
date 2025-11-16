@@ -1,10 +1,1 @@
-{
-  "divisions": [
-    {
-      "name": "abc"
-    },
-    {
-      "name": "salisbury"
-    }
-  ]
-}
+[]
