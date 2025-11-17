@@ -3,9 +3,6 @@
     "name": "asd"
   },
   {
-    "name": "vvvv"
-  },
-  {
     "name": "gggg"
   }
 ]
