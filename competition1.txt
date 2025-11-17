@@ -1,8 +1,15 @@
-[
-  {
-    "name": "asd"
-  },
-  {
-    "name": "gggg"
-  }
-]
+{
+  "divisions": [
+    {
+      "name": "asd"
+    },
+    {
+      "name": "gggg"
+    },
+    {
+      "name": "qqqqq"
+    }
+  ],
+  "players": [],
+  "results": []
+}
