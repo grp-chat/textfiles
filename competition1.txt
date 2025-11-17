@@ -6,9 +6,6 @@
     "name": "vvb"
   },
   {
-    "name": "yuiop"
-  },
-  {
     "name": "ffddd"
   }
 ]
