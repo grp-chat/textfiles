@@ -31,10 +31,6 @@
       "division": "vvvvvvvvv"
     },
     {
-      "name": "GHJ",
-      "division": "Unassigned"
-    },
-    {
       "name": "JI",
       "division": "Unassigned"
     },
