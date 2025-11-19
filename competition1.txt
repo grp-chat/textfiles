@@ -10,6 +10,35 @@
       "name": "tttttttt"
     }
   ],
-  "players": [],
+  "players": [
+    {
+      "name": "ASD",
+      "division": "Unassigned"
+    },
+    {
+      "name": "ZXC",
+      "division": "Unassigned"
+    },
+    {
+      "name": "QWE",
+      "division": "Unassigned"
+    },
+    {
+      "name": "RT",
+      "division": "Unassigned"
+    },
+    {
+      "name": "GHJ",
+      "division": "Unassigned"
+    },
+    {
+      "name": "JI",
+      "division": "Unassigned"
+    },
+    {
+      "name": "KKL",
+      "division": "Unassigned"
+    }
+  ],
   "results": []
 }
