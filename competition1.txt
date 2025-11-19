@@ -13,7 +13,7 @@
   "players": [
     {
       "name": "ASD",
-      "division": "Unassigned"
+      "division": "gggg"
     },
     {
       "name": "ZXC",
