@@ -8,6 +8,9 @@
     },
     {
       "name": "tttttttt"
+    },
+    {
+      "name": "vvvvvvvvv"
     }
   ],
   "players": [
