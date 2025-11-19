@@ -7,9 +7,6 @@
       "name": "gggg"
     },
     {
-      "name": "hhhhh"
-    },
-    {
       "name": "tttttttt"
     }
   ],
