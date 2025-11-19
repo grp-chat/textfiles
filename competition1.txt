@@ -21,7 +21,7 @@
     },
     {
       "name": "QWE",
-      "division": "Unassigned"
+      "division": "asd"
     },
     {
       "name": "RT",
