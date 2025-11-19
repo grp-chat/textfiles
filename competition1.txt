@@ -33,10 +33,6 @@
     {
       "name": "JI",
       "division": "Unassigned"
-    },
-    {
-      "name": "KKL",
-      "division": "Unassigned"
     }
   ],
   "results": []
