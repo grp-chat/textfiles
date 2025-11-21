@@ -41,7 +41,10 @@
     "name": "EEE",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "482.889px",
+      "top": "164.014px"
+    }
   },
   {
     "id": "mi92l007invb",
