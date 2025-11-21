@@ -49,7 +49,10 @@
     "name": "GGG",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "14.7743px",
+      "top": "136.372px"
+    }
   },
   {
     "id": "mi92l007lsjy",
