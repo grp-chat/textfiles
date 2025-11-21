@@ -11,6 +11,9 @@
     "name": "BBB",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "1458.33px",
+      "top": "436.333px"
+    }
   }
 ]
