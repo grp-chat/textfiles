@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "mi93fdtscybl",
+    "name": "AAA",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi93fdtse5q3",
+    "name": "BBB",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi93fdtsmyeg",
+    "name": "CCC",
+    "score": 0,
+    "color": null,
+    "pos": null
+  }
+]
