@@ -5,7 +5,7 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "257px",
+      "left": "255px",
       "top": "72px"
     }
   }
