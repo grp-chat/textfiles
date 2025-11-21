@@ -3,7 +3,7 @@
     "id": "mi96gnsr9bp1",
     "name": "AAA",
     "score": 1,
-    "color": null,
+    "color": "#3cb44b",
     "pos": {
       "left": "72px",
       "top": "49px"
