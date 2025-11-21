@@ -4,7 +4,10 @@
     "name": "AAA",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "253.111px",
+      "top": "219.111px"
+    }
   },
   {
     "id": "mi93176nfyuu",
