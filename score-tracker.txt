@@ -5,8 +5,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "578px",
-      "top": "267px"
+      "left": "238px",
+      "top": "272px"
     }
   },
   {
@@ -15,8 +15,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "521px",
-      "top": "89px"
+      "left": "12px",
+      "top": "271px"
     }
   },
   {
