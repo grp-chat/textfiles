@@ -62,7 +62,7 @@
   {
     "id": "mi96hem0d4mv",
     "name": "GGG",
-    "score": 2,
+    "score": 3,
     "color": "#3cb44b",
     "pos": {
       "left": "304px",
