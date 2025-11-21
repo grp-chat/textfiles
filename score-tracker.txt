@@ -77,7 +77,10 @@
     "name": "LLL",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "14.9479px",
+      "top": "257.535px"
+    }
   },
   {
     "id": "mi92l007fcyt",
