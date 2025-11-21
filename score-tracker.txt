@@ -26,7 +26,7 @@
   {
     "id": "mi91l0oeq6tk",
     "name": "CCC",
-    "score": 0,
-    "color": null
+    "score": 2,
+    "color": "#0082c8"
   }
 ]
