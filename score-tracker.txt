@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "mi93beecl9b4",
+    "name": "AAA",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi93beece3bp",
+    "name": "BBB",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi93beecujrw",
+    "name": "CCC",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi93beecjlot",
+    "name": "DDD",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi93beec4th6",
+    "name": "EEE",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi93beeclehz",
+    "name": "FFF",
+    "score": 0,
+    "color": null,
+    "pos": null
+  }
+]
