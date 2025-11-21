@@ -5,8 +5,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "1178.33px",
-      "top": "468.333px"
+      "left": "851.427px",
+      "top": "261.427px"
     }
   },
   {
