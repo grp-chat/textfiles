@@ -18,5 +18,12 @@
       "left": "1458.33px",
       "top": "436.333px"
     }
+  },
+  {
+    "id": "mi93sl5s6gf7",
+    "name": "CCC",
+    "score": 0,
+    "color": null,
+    "pos": null
   }
 ]
