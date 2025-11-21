@@ -12,8 +12,8 @@
     "color": null
   },
   {
-    "id": "mi91l0oeq6tk",
-    "name": "CCC",
+    "id": "mi91l0oe1prs",
+    "name": "EEE",
     "score": 0,
     "color": null
   },
@@ -24,8 +24,8 @@
     "color": null
   },
   {
-    "id": "mi91l0oe1prs",
-    "name": "EEE",
+    "id": "mi91l0oeq6tk",
+    "name": "CCC",
     "score": 0,
     "color": null
   }
