@@ -88,7 +88,10 @@
     "name": "NNN",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "782px",
+      "top": "241px"
+    }
   },
   {
     "id": "mi94yp6dnp3e",
