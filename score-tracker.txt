@@ -42,7 +42,7 @@
   {
     "id": "mi92gs0rtmyb",
     "name": "EEE",
-    "score": 1,
+    "score": 0,
     "color": "#ffe119",
     "pos": {
       "left": "290.431px",
