@@ -2,7 +2,7 @@
   {
     "id": "mi91l0oem8ht",
     "name": "DDD",
-    "score": 0,
+    "score": 1,
     "color": "#e6194b"
   },
   {
