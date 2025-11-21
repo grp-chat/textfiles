@@ -3,7 +3,7 @@
     "id": "mi9bxn0xn8th",
     "name": "NYH",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
       "left": "238px",
       "top": "272px"
