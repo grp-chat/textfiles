@@ -2,7 +2,7 @@
   {
     "id": "mi96gnsr9bp1",
     "name": "AAA",
-    "score": 0,
+    "score": 1,
     "color": null,
     "pos": {
       "left": "72px",
