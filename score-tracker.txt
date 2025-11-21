@@ -22,7 +22,7 @@
   {
     "id": "mi9bxn0x6rkj",
     "name": "LYX",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "241px",
