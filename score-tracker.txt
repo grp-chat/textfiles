@@ -4,6 +4,9 @@
     "name": "AAA",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "41.0973px",
+      "top": "41.1076px"
+    }
   }
 ]
