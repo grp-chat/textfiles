@@ -15,8 +15,8 @@
     "score": 0,
     "color": "#f032e6",
     "pos": {
-      "left": "61px",
-      "top": "338px"
+      "left": "301px",
+      "top": "343px"
     }
   },
   {
@@ -35,8 +35,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "303px",
-      "top": "331px"
+      "left": "58px",
+      "top": "343px"
     }
   },
   {
