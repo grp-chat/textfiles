@@ -91,7 +91,10 @@
     "name": "NNN",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "20.7188px",
+      "top": "14.8368px"
+    }
   },
   {
     "id": "mi92l007c2ne",
