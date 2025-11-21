@@ -42,8 +42,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "331.323px",
-      "top": "192.903px"
+      "left": "290.431px",
+      "top": "172.01px"
     }
   },
   {
