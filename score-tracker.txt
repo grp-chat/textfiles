@@ -32,7 +32,7 @@
   {
     "id": "mi9bxn0xbqno",
     "name": "NIK",
-    "score": 0,
+    "score": 1,
     "color": "#3cb44b",
     "pos": {
       "left": "12px",
