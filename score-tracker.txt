@@ -85,7 +85,10 @@
     "name": "JJJ",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "940.962px",
+      "top": "43.3854px"
+    }
   },
   {
     "id": "mi92l007ngd3",
