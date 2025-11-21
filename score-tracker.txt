@@ -12,7 +12,7 @@
   {
     "id": "mi92gs0rbj4q",
     "name": "BBB",
-    "score": 1,
+    "score": 2,
     "color": "#3cb44b",
     "pos": {
       "left": "68.9445px",
