@@ -25,7 +25,10 @@
     "name": "DDD",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "255.066px",
+      "top": "34.0695px"
+    }
   },
   {
     "id": "mi92l0073c10",
