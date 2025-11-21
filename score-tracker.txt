@@ -23,7 +23,7 @@
     "id": "mi92gs0rdxac",
     "name": "CCC",
     "score": 0,
-    "color": null,
+    "color": "#ffe119",
     "pos": {
       "left": "282.934px",
       "top": "52.9062px"
