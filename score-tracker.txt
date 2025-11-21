@@ -18,7 +18,10 @@
     "name": "CCC",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "726.111px",
+      "top": "220.108px"
+    }
   },
   {
     "id": "mi93176nnnxd",
