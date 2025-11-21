@@ -8,5 +8,12 @@
       "left": "989px",
       "top": "244px"
     }
+  },
+  {
+    "id": "mi93q4p41ciz",
+    "name": "BBB",
+    "score": 0,
+    "color": null,
+    "pos": null
   }
 ]
