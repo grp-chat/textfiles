@@ -81,7 +81,10 @@
     "name": "III",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "487.531px",
+      "top": "275.497px"
+    }
   },
   {
     "id": "mi92l007ctdq",
