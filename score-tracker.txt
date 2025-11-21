@@ -52,7 +52,7 @@
   {
     "id": "mi92gs0ry769",
     "name": "FFF",
-    "score": 0,
+    "score": 1,
     "color": "#ffe119",
     "pos": {
       "left": "294.573px",
