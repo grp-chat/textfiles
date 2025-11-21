@@ -28,5 +28,12 @@
       "left": "1109.33px",
       "top": "434.333px"
     }
+  },
+  {
+    "id": "mi93tf29tdma",
+    "name": "DDD",
+    "score": 0,
+    "color": null,
+    "pos": null
   }
 ]
