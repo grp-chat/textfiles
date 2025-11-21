@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "mi91rudeuphl",
+    "name": "AAA",
+    "score": 0,
+    "color": null
+  }
+]
