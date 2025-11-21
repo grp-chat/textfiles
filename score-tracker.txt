@@ -32,7 +32,10 @@
     "name": "EEE",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "265.111px",
+      "top": "134.111px"
+    }
   },
   {
     "id": "mi93cz40trsc",
