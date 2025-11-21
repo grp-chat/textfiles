@@ -5,8 +5,8 @@
     "score": 0,
     "color": "#3cb44b",
     "pos": {
-      "left": "356px",
-      "top": "158px"
+      "left": "93px",
+      "top": "21px"
     }
   }
 ]
