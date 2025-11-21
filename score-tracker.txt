@@ -12,7 +12,7 @@
   {
     "id": "mi96helztupv",
     "name": "BBB",
-    "score": 0,
+    "score": 1,
     "color": "#f032e6",
     "pos": {
       "left": "301px",
