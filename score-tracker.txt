@@ -18,6 +18,9 @@
     "name": "CCC",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "42.25px",
+      "top": "19.2344px"
+    }
   }
 ]
