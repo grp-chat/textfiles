@@ -62,7 +62,10 @@
     "name": "HHH",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "249.163px",
+      "top": "143.483px"
+    }
   },
   {
     "id": "mi92l007g8cy",
