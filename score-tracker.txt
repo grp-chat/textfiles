@@ -32,7 +32,7 @@
   {
     "id": "mi96hem0f6vy",
     "name": "DDD",
-    "score": 0,
+    "score": 1,
     "color": "#3cb44b",
     "pos": {
       "left": "58px",
