@@ -8,5 +8,40 @@
       "left": "74.4028px",
       "top": "50.4583px"
     }
+  },
+  {
+    "id": "mi92gs0rbj4q",
+    "name": "BBB",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi92gs0rdxac",
+    "name": "CCC",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi92gs0r4pdw",
+    "name": "DDD",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi92gs0rtmyb",
+    "name": "EEE",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi92gs0ry769",
+    "name": "FFF",
+    "score": 0,
+    "color": null,
+    "pos": null
   }
 ]
