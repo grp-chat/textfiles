@@ -39,6 +39,9 @@
     "name": "FFF",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "680.111px",
+      "top": "30.1111px"
+    }
   }
 ]
