@@ -3,7 +3,7 @@
     "id": "mi91rudeuphl",
     "name": "AAA",
     "score": 0,
-    "color": "#e6194b",
+    "color": "#3cb44b",
     "pos": {
       "left": "74.4028px",
       "top": "50.4583px"
