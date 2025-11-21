@@ -2,7 +2,7 @@
   {
     "id": "mi91l0oem8ht",
     "name": "DDD",
-    "score": 1,
+    "score": 2,
     "color": "#e6194b"
   },
   {
@@ -20,7 +20,7 @@
   {
     "id": "mi91l0oemd3b",
     "name": "AAA",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8"
   },
   {
