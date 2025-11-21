@@ -1,12 +1,1 @@
-[
-  {
-    "id": "mi95ijg212y1",
-    "name": "AAA",
-    "score": 0,
-    "color": null,
-    "pos": {
-      "left": "367px",
-      "top": "165px"
-    }
-  }
-]
+[]
