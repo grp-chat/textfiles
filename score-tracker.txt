@@ -43,7 +43,7 @@
     "id": "mi9bxn0xptr9",
     "name": "HHY",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
       "left": "237px",
       "top": "42px"
