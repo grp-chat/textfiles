@@ -1,16 +1,1 @@
-[
-  {
-    "id": "mi942xfdj2en",
-    "name": "AAA",
-    "score": 0,
-    "color": null,
-    "pos": null
-  },
-  {
-    "id": "mi943e1gwfz6",
-    "name": "BBB",
-    "score": 0,
-    "color": null,
-    "pos": null
-  }
-]
+[]
