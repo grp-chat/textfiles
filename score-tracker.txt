@@ -4,7 +4,10 @@
     "name": "AAA",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "1178.33px",
+      "top": "468.333px"
+    }
   },
   {
     "id": "mi93qsxpsgi2",
