@@ -1,12 +1,1 @@
-[
-  {
-    "id": "mi95z95zytyl",
-    "name": "AAA",
-    "score": 0,
-    "color": "#3cb44b",
-    "pos": {
-      "left": "93px",
-      "top": "21px"
-    }
-  }
-]
+[]
