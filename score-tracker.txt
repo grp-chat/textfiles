@@ -95,6 +95,9 @@
     "name": "PPP",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "793px",
+      "top": "347px"
+    }
   }
 ]
