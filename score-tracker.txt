@@ -39,7 +39,10 @@
     "name": "FFF",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "524.5px",
+      "top": "35.7465px"
+    }
   },
   {
     "id": "mi92l0075lkr",
