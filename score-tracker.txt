@@ -81,7 +81,10 @@
     "name": "MMM",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "722px",
+      "top": "129px"
+    }
   },
   {
     "id": "mi94yp6d72jb",
