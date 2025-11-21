@@ -3,7 +3,7 @@
     "id": "mi95z95zytyl",
     "name": "AAA",
     "score": 0,
-    "color": null,
+    "color": "#3cb44b",
     "pos": {
       "left": "255px",
       "top": "72px"
