@@ -14,7 +14,10 @@
     "name": "BBB",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "70.8368px",
+      "top": "170.618px"
+    }
   },
   {
     "id": "mi92gs0rdxac",
