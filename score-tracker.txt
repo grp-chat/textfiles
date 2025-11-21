@@ -3,25 +3,25 @@
     "id": "mi91l0oem8ht",
     "name": "DDD",
     "score": 0,
-    "color": null
+    "color": "#e6194b"
   },
   {
     "id": "mi91l0oekcme",
     "name": "BBB",
     "score": 0,
-    "color": null
+    "color": "#e6194b"
   },
   {
     "id": "mi91l0oe1prs",
     "name": "EEE",
     "score": 0,
-    "color": null
+    "color": "#e6194b"
   },
   {
     "id": "mi91l0oemd3b",
     "name": "AAA",
     "score": 0,
-    "color": null
+    "color": "#0082c8"
   },
   {
     "id": "mi91l0oeq6tk",
