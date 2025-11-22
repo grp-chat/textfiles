@@ -2,7 +2,7 @@
   {
     "id": "mi9qpb34hdss",
     "name": "LVY",
-    "score": 5,
+    "score": 6,
     "color": "#0082c8",
     "pos": {
       "left": "210px",
