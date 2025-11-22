@@ -62,7 +62,7 @@
   {
     "id": "mi9qpb34o539",
     "name": "GEO",
-    "score": 1,
+    "score": 2,
     "color": "#0082c8",
     "pos": {
       "left": "654.667px",
