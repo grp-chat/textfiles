@@ -82,7 +82,7 @@
   {
     "id": "mi9qpb34yi49",
     "name": "TYE",
-    "score": 0,
+    "score": 1,
     "color": "#3cb44b",
     "pos": {
       "left": "0px",
