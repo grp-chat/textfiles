@@ -4,69 +4,99 @@
     "name": "LVY",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "210px",
+      "top": "15.3281px"
+    }
   },
   {
     "id": "mi9qpb343fds",
     "name": "LYX",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "663.333px",
+      "top": "145px"
+    }
   },
   {
     "id": "mi9qpb34vvua",
     "name": "NHC",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "453px",
+      "top": "25.3333px"
+    }
   },
   {
     "id": "mi9qpb34krno",
     "name": "NIK",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "211.333px",
+      "top": "250.333px"
+    }
   },
   {
     "id": "mi9qpb346e2i",
     "name": "HHY",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "445.667px",
+      "top": "142px"
+    }
   },
   {
     "id": "mi9qpb3494nw",
     "name": "ZAC",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "666.328px",
+      "top": "25.9948px"
+    }
   },
   {
     "id": "mi9qpb34o539",
     "name": "GEO",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "0px",
+      "top": "255.333px"
+    }
   },
   {
     "id": "mi9qpb348ajl",
     "name": "NYH",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "0px",
+      "top": "140.667px"
+    }
   },
   {
     "id": "mi9qpb34yi49",
     "name": "TYE",
     "score": 0,
-    "color": null,
-    "pos": null
+    "color": "#3cb44b",
+    "pos": {
+      "left": "0px",
+      "top": "19.3281px"
+    }
   },
   {
     "id": "mi9qpb34kta3",
     "name": "OCS",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "220px",
+      "top": "140.995px"
+    }
   }
 ]
