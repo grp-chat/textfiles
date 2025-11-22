@@ -23,7 +23,7 @@
     "id": "mi9qpb34vvua",
     "name": "NHC",
     "score": 0,
-    "color": "#3cb44b",
+    "color": "#0082c8",
     "pos": {
       "left": "638.667px",
       "top": "25.3229px"
