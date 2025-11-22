@@ -13,7 +13,7 @@
     "id": "mi9qpb343fds",
     "name": "LYX",
     "score": 0,
-    "color": "#0082c8",
+    "color": "#3cb44b",
     "pos": {
       "left": "455.995px",
       "top": "143.667px"
