@@ -92,7 +92,7 @@
   {
     "id": "mi9qpb34kta3",
     "name": "OCS",
-    "score": 0,
+    "score": 1,
     "color": "#3cb44b",
     "pos": {
       "left": "469px",
