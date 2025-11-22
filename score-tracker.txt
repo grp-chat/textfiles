@@ -3,7 +3,7 @@
     "id": "mi9qpb34hdss",
     "name": "LVY",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
       "left": "210px",
       "top": "15.3281px"
