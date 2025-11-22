@@ -52,7 +52,7 @@
   {
     "id": "mi9qpb3494nw",
     "name": "ZAC",
-    "score": 6,
+    "score": 7,
     "color": "#3cb44b",
     "pos": {
       "left": "437.99px",
