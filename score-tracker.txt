@@ -15,8 +15,8 @@
     "score": 0,
     "color": "#3cb44b",
     "pos": {
-      "left": "455.995px",
-      "top": "143.667px"
+      "left": "0px",
+      "top": "135.667px"
     }
   },
   {
@@ -25,8 +25,8 @@
     "score": 0,
     "color": "#0082c8",
     "pos": {
-      "left": "638.667px",
-      "top": "25.3229px"
+      "left": "207.328px",
+      "top": "266.333px"
     }
   },
   {
@@ -45,8 +45,8 @@
     "score": 0,
     "color": "#0082c8",
     "pos": {
-      "left": "666.995px",
-      "top": "152px"
+      "left": "674.995px",
+      "top": "293px"
     }
   },
   {
@@ -65,18 +65,18 @@
     "score": 0,
     "color": "#0082c8",
     "pos": {
-      "left": "204.333px",
-      "top": "243.328px"
+      "left": "654.667px",
+      "top": "29.8334px"
     }
   },
   {
     "id": "mi9qpb348ajl",
     "name": "NYH",
     "score": 0,
-    "color": "#0082c8",
+    "color": "#3cb44b",
     "pos": {
-      "left": "212.333px",
-      "top": "132.333px"
+      "left": "0px",
+      "top": "14.1667px"
     }
   },
   {
@@ -85,8 +85,8 @@
     "score": 0,
     "color": "#3cb44b",
     "pos": {
-      "left": "0px",
-      "top": "19.3281px"
+      "left": "219px",
+      "top": "138.333px"
     }
   },
   {
@@ -95,8 +95,8 @@
     "score": 0,
     "color": "#3cb44b",
     "pos": {
-      "left": "0px",
-      "top": "140.328px"
+      "left": "469px",
+      "top": "276.99px"
     }
   }
 ]
