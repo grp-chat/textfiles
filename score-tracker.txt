@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "id": "mi9qpb34hdss",
+    "name": "LVY",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi9qpb343fds",
+    "name": "LYX",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi9qpb34vvua",
+    "name": "NHC",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi9qpb34krno",
+    "name": "NIK",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi9qpb346e2i",
+    "name": "HHY",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi9qpb3494nw",
+    "name": "ZAC",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi9qpb34o539",
+    "name": "GEO",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi9qpb348ajl",
+    "name": "NYH",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi9qpb34yi49",
+    "name": "TYE",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mi9qpb34kta3",
+    "name": "OCS",
+    "score": 0,
+    "color": null,
+    "pos": null
+  }
+]
