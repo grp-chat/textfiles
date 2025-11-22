@@ -15,8 +15,8 @@
     "score": 0,
     "color": "#0082c8",
     "pos": {
-      "left": "663.333px",
-      "top": "145px"
+      "left": "455.995px",
+      "top": "143.667px"
     }
   },
   {
@@ -25,8 +25,8 @@
     "score": 0,
     "color": "#3cb44b",
     "pos": {
-      "left": "453px",
-      "top": "25.3333px"
+      "left": "638.667px",
+      "top": "25.3229px"
     }
   },
   {
@@ -45,8 +45,8 @@
     "score": 0,
     "color": "#3cb44b",
     "pos": {
-      "left": "445.667px",
-      "top": "142px"
+      "left": "666.995px",
+      "top": "152px"
     }
   },
   {
@@ -55,8 +55,8 @@
     "score": 0,
     "color": "#0082c8",
     "pos": {
-      "left": "666.328px",
-      "top": "25.9948px"
+      "left": "437.99px",
+      "top": "28.6615px"
     }
   },
   {
@@ -75,8 +75,8 @@
     "score": 1,
     "color": "#3cb44b",
     "pos": {
-      "left": "0px",
-      "top": "140.667px"
+      "left": "212.333px",
+      "top": "132.333px"
     }
   },
   {
@@ -93,10 +93,10 @@
     "id": "mi9qpb34kta3",
     "name": "OCS",
     "score": 0,
-    "color": "#0082c8",
+    "color": "#3cb44b",
     "pos": {
-      "left": "220px",
-      "top": "140.995px"
+      "left": "0px",
+      "top": "140.328px"
     }
   }
 ]
