@@ -73,7 +73,7 @@
     "id": "mi9qpb348ajl",
     "name": "NYH",
     "score": 1,
-    "color": "#3cb44b",
+    "color": "#0082c8",
     "pos": {
       "left": "212.333px",
       "top": "132.333px"
