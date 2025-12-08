@@ -25,8 +25,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "19.6111px",
-      "top": "687.444px"
+      "left": "406.493px",
+      "top": "501.382px"
     }
   },
   {
@@ -35,8 +35,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "224.389px",
-      "top": "693.444px"
+      "left": "557.556px",
+      "top": "535.993px"
     }
   },
   {
@@ -65,8 +65,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "480.722px",
-      "top": "680.444px"
+      "left": "564.937px",
+      "top": "379.882px"
     }
   },
   {
