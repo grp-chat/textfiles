@@ -33,7 +33,7 @@
     "id": "miwqryzkwt4n",
     "name": "NOV",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
       "left": "894.882px",
       "top": "435.542px"
