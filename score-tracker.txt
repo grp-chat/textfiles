@@ -32,7 +32,7 @@
   {
     "id": "miwrxtb2liqn",
     "name": "GYT",
-    "score": 3,
+    "score": 4,
     "color": "#3cb44b",
     "pos": {
       "left": "1003.44px",
