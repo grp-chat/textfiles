@@ -83,7 +83,7 @@
     "id": "miwrxtb2vc26",
     "name": "CT",
     "score": 0,
-    "color": null,
+    "color": "#3cb44b",
     "pos": {
       "left": "994.778px",
       "top": "17.5556px"
