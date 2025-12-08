@@ -22,7 +22,7 @@
   {
     "id": "miwrxtb2fofb",
     "name": "HUI",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "233px",
@@ -72,7 +72,7 @@
   {
     "id": "miwrxtb2sdh5",
     "name": "TME",
-    "score": 6,
+    "score": 5,
     "color": "#3cb44b",
     "pos": {
       "left": "523.875px",
