@@ -102,7 +102,7 @@
   {
     "id": "miwqryzkcrgi",
     "name": "TME",
-    "score": 4,
+    "score": 5,
     "color": "#3cb44b",
     "pos": {
       "left": "711.826px",
