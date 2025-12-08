@@ -3,7 +3,7 @@
     "id": "miwrxtb230b5",
     "name": "CRQ",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
       "left": "725.438px",
       "top": "26.4375px"
