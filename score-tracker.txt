@@ -42,7 +42,7 @@
   {
     "id": "miwrxtb21bmo",
     "name": "GQY",
-    "score": 3,
+    "score": 4,
     "color": "#0082c8",
     "pos": {
       "left": "729.445px",
