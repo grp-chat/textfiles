@@ -25,8 +25,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "560.264px",
-      "top": "320.938px"
+      "left": "676.257px",
+      "top": "432.493px"
     }
   },
   {
@@ -35,8 +35,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "770.444px",
-      "top": "324.431px"
+      "left": "894.882px",
+      "top": "435.542px"
     }
   },
   {
@@ -55,8 +55,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "953.104px",
-      "top": "149.819px"
+      "left": "949.542px",
+      "top": "155.146px"
     }
   },
   {
@@ -65,8 +65,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "519.597px",
-      "top": "159.882px"
+      "left": "0px",
+      "top": "310.549px"
     }
   },
   {
@@ -95,8 +95,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "219.097px",
-      "top": "173.944px"
+      "left": "279.979px",
+      "top": "159.715px"
     }
   },
   {
@@ -105,15 +105,15 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "0.715279px",
-      "top": "307.556px"
+      "left": "711.826px",
+      "top": "162.667px"
     }
   },
   {
     "id": "miwqryzkzc4b",
     "name": "LKY",
     "score": 0,
-    "color": null,
+    "color": "#3cb44b",
     "pos": {
       "left": "38.6111px",
       "top": "106.431px"
@@ -125,8 +125,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "217.493px",
-      "top": "27.7014px"
+      "left": "280.597px",
+      "top": "16.5903px"
     }
   }
 ]
