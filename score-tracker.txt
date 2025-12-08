@@ -2,7 +2,7 @@
   {
     "id": "miwqryzkwqie",
     "name": "CRQ",
-    "score": 1,
+    "score": 2,
     "color": "#3cb44b",
     "pos": {
       "left": "4.72222px",
