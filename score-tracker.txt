@@ -122,7 +122,7 @@
   {
     "id": "miwrxtb2a69n",
     "name": "NZQ",
-    "score": 3,
+    "score": 4,
     "color": "#0082c8",
     "pos": {
       "left": "1205px",
