@@ -12,7 +12,7 @@
   {
     "id": "miwrxtb2y8v5",
     "name": "NOV",
-    "score": 2,
+    "score": 3,
     "color": "#0082c8",
     "pos": {
       "left": "1221.67px",
