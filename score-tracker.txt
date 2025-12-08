@@ -4,90 +4,129 @@
     "name": "CRQ",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "576px",
+      "top": "956px"
+    }
   },
   {
     "id": "miwqryzkw2ld",
     "name": "CT",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "570px",
+      "top": "950px"
+    }
   },
   {
     "id": "miwqryzk2h18",
     "name": "GYT",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "564px",
+      "top": "944px"
+    }
   },
   {
     "id": "miwqryzkwt4n",
     "name": "NOV",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "558px",
+      "top": "938px"
+    }
   },
   {
     "id": "miwqryzkpqof",
     "name": "YUN",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "552px",
+      "top": "932px"
+    }
   },
   {
     "id": "miwqryzkovcp",
     "name": "GQY",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "546px",
+      "top": "926px"
+    }
   },
   {
     "id": "miwqryzk2c6b",
     "name": "ANT",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "540px",
+      "top": "920px"
+    }
   },
   {
     "id": "miwqryzklpoi",
     "name": "NZQ",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "534px",
+      "top": "914px"
+    }
   },
   {
     "id": "miwqryzky6rz",
     "name": "HUI",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "528px",
+      "top": "908px"
+    }
   },
   {
     "id": "miwqryzk0m3q",
     "name": "CHS",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "284.333px",
+      "top": "104.556px"
+    }
   },
   {
     "id": "miwqryzkcrgi",
     "name": "TME",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "92.5px",
+      "top": "361.278px"
+    }
   },
   {
     "id": "miwqryzkzc4b",
     "name": "LKY",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "75.1667px",
+      "top": "209.833px"
+    }
   },
   {
     "id": "miwqryzkv59m",
     "name": "YLW",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "55.3333px",
+      "top": "58.2222px"
+    }
   }
 ]
