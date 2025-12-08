@@ -92,7 +92,7 @@
   {
     "id": "miwrxtb2y5ut",
     "name": "CHS",
-    "score": 1,
+    "score": 0,
     "color": "#0082c8",
     "pos": {
       "left": "246.222px",
