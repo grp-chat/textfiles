@@ -12,7 +12,7 @@
   {
     "id": "miwqryzkw2ld",
     "name": "CT",
-    "score": 1,
+    "score": 0,
     "color": "#0082c8",
     "pos": {
       "left": "933.215px",
