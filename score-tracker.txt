@@ -3,7 +3,7 @@
     "id": "miwqryzkwqie",
     "name": "CRQ",
     "score": 0,
-    "color": null,
+    "color": "#3cb44b",
     "pos": {
       "left": "4.72222px",
       "top": "463.667px"
