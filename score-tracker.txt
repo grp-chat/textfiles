@@ -53,7 +53,7 @@
     "id": "miwqryzkovcp",
     "name": "GQY",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
       "left": "949.542px",
       "top": "155.146px"
