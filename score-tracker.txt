@@ -82,7 +82,7 @@
   {
     "id": "miwrxtb2vc26",
     "name": "CT",
-    "score": 2,
+    "score": 1,
     "color": "#3cb44b",
     "pos": {
       "left": "994.778px",
