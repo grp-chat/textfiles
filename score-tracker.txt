@@ -112,7 +112,7 @@
   {
     "id": "miwqryzkzc4b",
     "name": "LKY",
-    "score": 5,
+    "score": 6,
     "color": "#3cb44b",
     "pos": {
       "left": "38.6111px",
