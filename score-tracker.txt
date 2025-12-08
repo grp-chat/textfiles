@@ -82,7 +82,7 @@
   {
     "id": "miwqryzky6rz",
     "name": "HUI",
-    "score": 4,
+    "score": 3,
     "color": "#0082c8",
     "pos": {
       "left": "213.826px",
