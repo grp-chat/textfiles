@@ -112,7 +112,7 @@
   {
     "id": "miwrxtb2dz95",
     "name": "YLW",
-    "score": 3,
+    "score": 2,
     "color": "#0082c8",
     "pos": {
       "left": "236.778px",
