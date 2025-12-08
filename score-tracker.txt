@@ -5,8 +5,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "576px",
-      "top": "956px"
+      "left": "8.27779px",
+      "top": "515.667px"
     }
   },
   {
@@ -15,8 +15,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "570px",
-      "top": "950px"
+      "left": "579.444px",
+      "top": "65.6042px"
     }
   },
   {
@@ -25,8 +25,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "564px",
-      "top": "944px"
+      "left": "19.6111px",
+      "top": "687.444px"
     }
   },
   {
@@ -35,8 +35,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "558px",
-      "top": "938px"
+      "left": "224.389px",
+      "top": "693.444px"
     }
   },
   {
@@ -45,8 +45,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "552px",
-      "top": "932px"
+      "left": "400.549px",
+      "top": "156.826px"
     }
   },
   {
@@ -55,8 +55,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "546px",
-      "top": "926px"
+      "left": "581.549px",
+      "top": "221.826px"
     }
   },
   {
@@ -65,8 +65,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "540px",
-      "top": "920px"
+      "left": "480.722px",
+      "top": "680.444px"
     }
   },
   {
@@ -75,8 +75,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "534px",
-      "top": "914px"
+      "left": "210.389px",
+      "top": "530.333px"
     }
   },
   {
@@ -85,8 +85,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "528px",
-      "top": "908px"
+      "left": "213.833px",
+      "top": "359.5px"
     }
   },
   {
@@ -95,8 +95,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "284.333px",
-      "top": "104.556px"
+      "left": "219.097px",
+      "top": "173.944px"
     }
   },
   {
@@ -105,8 +105,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "92.5px",
-      "top": "361.278px"
+      "left": "19.8333px",
+      "top": "357.778px"
     }
   },
   {
@@ -115,8 +115,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "75.1667px",
-      "top": "209.833px"
+      "left": "38.6111px",
+      "top": "106.431px"
     }
   },
   {
@@ -125,8 +125,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "55.3333px",
-      "top": "58.2222px"
+      "left": "217.493px",
+      "top": "27.7014px"
     }
   }
 ]
