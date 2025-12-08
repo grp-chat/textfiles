@@ -52,7 +52,7 @@
   {
     "id": "miwrxtb2r8x3",
     "name": "ANT",
-    "score": 0,
+    "score": 1,
     "color": "#3cb44b",
     "pos": {
       "left": "0px",
