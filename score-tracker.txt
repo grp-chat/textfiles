@@ -63,7 +63,7 @@
     "id": "miwqryzk2c6b",
     "name": "ANT",
     "score": 0,
-    "color": null,
+    "color": "#3cb44b",
     "pos": {
       "left": "0px",
       "top": "310.549px"
