@@ -23,7 +23,7 @@
     "id": "miwqryzk2h18",
     "name": "GYT",
     "score": 0,
-    "color": null,
+    "color": "#3cb44b",
     "pos": {
       "left": "676.257px",
       "top": "432.493px"
