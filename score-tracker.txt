@@ -73,7 +73,7 @@
     "id": "miwqryzklpoi",
     "name": "NZQ",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
       "left": "218.389px",
       "top": "456.993px"
