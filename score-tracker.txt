@@ -22,7 +22,7 @@
   {
     "id": "miwrxtb2fofb",
     "name": "HUI",
-    "score": 3,
+    "score": 4,
     "color": "#0082c8",
     "pos": {
       "left": "233px",
