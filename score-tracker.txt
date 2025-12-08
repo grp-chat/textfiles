@@ -22,7 +22,7 @@
   {
     "id": "miwqryzk2h18",
     "name": "GYT",
-    "score": 1,
+    "score": 2,
     "color": "#3cb44b",
     "pos": {
       "left": "725.59px",
