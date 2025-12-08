@@ -42,7 +42,7 @@
   {
     "id": "miwqryzkpqof",
     "name": "YUN",
-    "score": 1,
+    "score": 0,
     "color": "#3cb44b",
     "pos": {
       "left": "688.438px",
