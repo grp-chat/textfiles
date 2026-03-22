@@ -1,5 +1,28 @@
 {
-  "test": true,
-  "message": "Testing save function",
-  "time": 1774199493318
+  "players": [
+    "Alice",
+    "Bob",
+    "Annie",
+    "Pearlyn"
+  ],
+  "totalRounds": 3,
+  "totalAliens": 1,
+  "identities": [
+    {
+      "name": "Alice",
+      "role": "HUMAN"
+    },
+    {
+      "name": "Bob",
+      "role": "HUMAN"
+    },
+    {
+      "name": "Annie",
+      "role": "ALIEN"
+    },
+    {
+      "name": "Pearlyn",
+      "role": "HUMAN"
+    }
+  ]
 }
