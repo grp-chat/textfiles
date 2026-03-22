@@ -1,22 +1,5 @@
 {
-  "turn": 1,
-  "players": {
-    "p1": {
-      "role": "human",
-      "room": "Bridge"
-    },
-    "p2": {
-      "role": "alien",
-      "room": "Engine"
-    }
-  },
-  "sabotage": [
-    "Oxygen",
-    "Comms"
-  ],
-  "progress": {
-    "fly": 10,
-    "distress": 0,
-    "tech": 0
-  }
+  "test": true,
+  "message": "Testing save function",
+  "time": 1774199493318
 }
