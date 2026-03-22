@@ -1,5 +1,22 @@
 {
-  "test": true,
-  "timestamp": 1774198019935,
-  "message": "Hello Astra-2"
+  "turn": 1,
+  "players": {
+    "p1": {
+      "role": "human",
+      "room": "Bridge"
+    },
+    "p2": {
+      "role": "alien",
+      "room": "Engine"
+    }
+  },
+  "sabotage": [
+    "Oxygen",
+    "Comms"
+  ],
+  "progress": {
+    "fly": 10,
+    "distress": 0,
+    "tech": 0
+  }
 }
