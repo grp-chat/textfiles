@@ -18,11 +18,11 @@
     },
     {
       "name": "Clarrissa",
-      "role": "HUMAN"
+      "role": "ALIEN"
     },
     {
       "name": "Nana",
-      "role": "ALIEN"
+      "role": "HUMAN"
     }
   ]
 }
