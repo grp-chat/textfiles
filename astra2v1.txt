@@ -10,11 +10,11 @@
   "identities": [
     {
       "name": "Annie",
-      "role": "ALIEN"
+      "role": "HUMAN"
     },
     {
       "name": "Pearlyn",
-      "role": "HUMAN"
+      "role": "ALIEN"
     },
     {
       "name": "Clarrissa",
