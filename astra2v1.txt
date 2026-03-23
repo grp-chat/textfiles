@@ -14,7 +14,7 @@
     },
     {
       "name": "Pearlyn",
-      "role": "HUMAN"
+      "role": "ALIEN"
     },
     {
       "name": "Clarrissa",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Nana",
-      "role": "ALIEN"
+      "role": "HUMAN"
     }
   ]
 }
