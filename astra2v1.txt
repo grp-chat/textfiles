@@ -1,1 +1,55 @@
-
+{
+  "players": {
+    "Annie": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "Clarissa": {
+      "role": "ALIEN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "Nana": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "Pearlyn": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "Fiona": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    }
+  },
+  "bars": {
+    "speed": 20,
+    "signal": 20,
+    "hide": 20,
+    "threat": 10
+  },
+  "turnData": {
+    "waiting": [
+      "Annie",
+      "Clarissa",
+      "Nana",
+      "Pearlyn",
+      "Fiona"
+    ],
+    "finished": []
+  },
+  "roomStatus": {},
+  "metadata": {
+    "totalRounds": 3,
+    "totalAliens": 1
+  }
+}
