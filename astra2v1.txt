@@ -32,22 +32,26 @@
     }
   },
   "bars": {
-    "speed": 20,
+    "speed": 30,
     "signal": 20,
-    "hide": 20,
-    "threat": 10
+    "hide": 40,
+    "threat": 15
   },
   "turnData": {
     "waiting": [
-      "Annie",
       "Clarissa",
+      "Annie",
       "Nana",
       "Pearlyn",
       "Fiona"
     ],
     "finished": []
   },
-  "roomStatus": {},
+  "roomStatus": {
+    "Sync Stealth Systems": true,
+    "Initiate Stealth Protocol": true,
+    "Synchronize Ship Systems": true
+  },
   "metadata": {
     "totalRounds": 3,
     "totalAliens": 1
