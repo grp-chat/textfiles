@@ -10,7 +10,7 @@
   "identities": [
     {
       "name": "Annie",
-      "role": "ALIEN"
+      "role": "HUMAN"
     },
     {
       "name": "Pearlyn",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Nana",
-      "role": "HUMAN"
+      "role": "ALIEN"
     }
   ]
 }
