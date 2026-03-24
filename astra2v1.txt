@@ -2,7 +2,7 @@
   "players": {
     "Annie": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "DATA CORE",
       "status": "ALIVE",
       "petrified": false
     },
@@ -33,24 +33,26 @@
   },
   "bars": {
     "speed": 30,
-    "signal": 20,
+    "signal": 40,
     "hide": 40,
-    "threat": 15
+    "threat": 20
   },
   "turnData": {
     "waiting": [
       "Clarissa",
       "Annie",
-      "Nana",
       "Pearlyn",
-      "Fiona"
+      "Fiona",
+      "Nana"
     ],
     "finished": []
   },
   "roomStatus": {
     "Sync Stealth Systems": true,
     "Initiate Stealth Protocol": true,
-    "Synchronize Ship Systems": true
+    "Synchronize Ship Systems": true,
+    "Initiate Emergency Broadcast": true,
+    "Synchronize Comm Systems": true
   },
   "metadata": {
     "totalRounds": 3,
