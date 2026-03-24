@@ -2,7 +2,7 @@
   "players": {
     "Annie": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
@@ -20,7 +20,7 @@
     },
     "Pearlyn": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "NAVIGATION",
       "status": "ALIVE",
       "petrified": false
     },
@@ -32,18 +32,18 @@
     }
   },
   "bars": {
-    "speed": 50,
-    "signal": 30,
-    "hide": 30,
-    "threat": 55
+    "speed": 40,
+    "signal": 40,
+    "hide": 40,
+    "threat": 60
   },
   "turnData": {
     "waiting": [
-      "Clarissa",
       "Nana",
       "Fiona",
       "Pearlyn",
-      "Annie"
+      "Annie",
+      "Clarissa"
     ],
     "finished": []
   },
@@ -51,11 +51,266 @@
     "Sync Stealth Systems": true,
     "Repair Engine Core": true,
     "Synchronize Ship Systems": true,
-    "Authorize Command Protocols": true,
-    "Initiate Emergency Broadcast": true
+    "Initiate Emergency Broadcast": true,
+    "Synchronize Comm Systems": true,
+    "Initiate Stealth Protocol": true
   },
   "metadata": {
     "totalRounds": 3,
     "totalAliens": 1
-  }
+  },
+  "tasks": [
+    {
+      "name": "Repair Engine Core",
+      "loc": "ENGINE",
+      "type": "speed",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Align Reactor Output",
+      "loc": "ENGINE",
+      "type": "speed",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Overhaul Thruster System",
+      "loc": "ENGINE",
+      "type": "speed",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Refuel Main Tanks",
+      "loc": "FUEL CONTROL",
+      "type": "speed",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Stabilize Fuel Flow",
+      "loc": "FUEL CONTROL",
+      "type": "speed",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Stabilize Power Output",
+      "loc": "POWER CORE",
+      "type": "speed",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Reroute Energy Distribution",
+      "loc": "POWER CORE",
+      "type": "speed",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Stabilize Signal Power",
+      "loc": "POWER CORE",
+      "type": "signal",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Minimize Power Signature",
+      "loc": "POWER CORE",
+      "type": "hide",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Repair Structural Damage",
+      "loc": "MAINTENANCE",
+      "type": "speed",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Reinforce Mechanical Systems",
+      "loc": "MAINTENANCE",
+      "type": "speed",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Reinforce Hull Integrity",
+      "loc": "MAINTENANCE",
+      "type": "hide",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Silence Mechanical Systems",
+      "loc": "MAINTENANCE",
+      "type": "hide",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Synchronize Ship Systems",
+      "loc": "CENTRAL HUB",
+      "type": "speed",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Authorize Command Protocols",
+      "loc": "CENTRAL HUB",
+      "type": "speed",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Synchronize Comm Systems",
+      "loc": "CENTRAL HUB",
+      "type": "signal",
+      "complete": true,
+      "completedBy": "Nana"
+    },
+    {
+      "name": "Initiate Emergency Broadcast",
+      "loc": "CENTRAL HUB",
+      "type": "signal",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Sync Stealth Systems",
+      "loc": "CENTRAL HUB",
+      "type": "hide",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Initiate Stealth Protocol",
+      "loc": "CENTRAL HUB",
+      "type": "hide",
+      "complete": true,
+      "completedBy": "Fiona"
+    },
+    {
+      "name": "Stabilize Crew Systems",
+      "loc": "LIFE SUPPORT",
+      "type": "speed",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Stabilize Internal Systems",
+      "loc": "LIFE SUPPORT",
+      "type": "hide",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Reduce System Emissions",
+      "loc": "LIFE SUPPORT",
+      "type": "hide",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Repair Comm Array",
+      "loc": "COMMS",
+      "type": "signal",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Amplify Signal Trans",
+      "loc": "COMMS",
+      "type": "signal",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Boost Signal Frequency",
+      "loc": "COMMS",
+      "type": "signal",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Restore Data Systems",
+      "loc": "DATA CORE",
+      "type": "signal",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Decrypt Signal Protocols",
+      "loc": "DATA CORE",
+      "type": "signal",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Recalculate Flight Path",
+      "loc": "NAVIGATION",
+      "type": "signal",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Update Nav Coordinates",
+      "loc": "NAVIGATION",
+      "type": "signal",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Plot Escape Route",
+      "loc": "NAVIGATION",
+      "type": "hide",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Recalculate Trajectory",
+      "loc": "NAVIGATION",
+      "type": "hide",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Scan Signal Range",
+      "loc": "SCANNER",
+      "type": "signal",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Lock Transmission Target",
+      "loc": "SCANNER",
+      "type": "signal",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Scan Surrounding Space",
+      "loc": "SCANNER",
+      "type": "hide",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Identify Safe Zones",
+      "loc": "SCANNER",
+      "type": "hide",
+      "complete": false,
+      "completedBy": ""
+    },
+    {
+      "name": "Detect Alien Presence",
+      "loc": "SCANNER",
+      "type": "hide",
+      "complete": false,
+      "completedBy": ""
+    }
+  ]
 }
