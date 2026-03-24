@@ -8,7 +8,7 @@
     },
     "Clarissa": {
       "role": "ALIEN",
-      "loc": "ENGINE",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
@@ -35,7 +35,7 @@
     "speed": 30,
     "signal": 40,
     "hide": 30,
-    "threat": 35
+    "threat": 40
   },
   "turnData": {
     "waiting": [
