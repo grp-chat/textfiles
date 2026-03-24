@@ -2,7 +2,7 @@
   "players": {
     "Annie": {
       "role": "HUMAN",
-      "loc": "NAVIGATION",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
@@ -14,43 +14,42 @@
     },
     "Nana": {
       "role": "HUMAN",
-      "loc": "POWER CORE",
+      "loc": "SECURITY",
       "status": "ALIVE",
       "petrified": false
     },
     "Pearlyn": {
       "role": "HUMAN",
-      "loc": "ENGINE",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "Fiona": {
       "role": "HUMAN",
-      "loc": "BRIDGE",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     }
   },
   "bars": {
     "speed": 30,
-    "signal": 40,
+    "signal": 30,
     "hide": 30,
-    "threat": 40
+    "threat": 45
   },
   "turnData": {
     "waiting": [
-      "Clarissa",
       "Nana",
       "Fiona",
       "Pearlyn",
-      "Annie"
+      "Annie",
+      "Clarissa"
     ],
     "finished": []
   },
   "roomStatus": {
     "Sync Stealth Systems": true,
     "Initiate Emergency Broadcast": true,
-    "Synchronize Comm Systems": true,
     "Repair Engine Core": true
   },
   "metadata": {
