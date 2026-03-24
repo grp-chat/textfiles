@@ -8,7 +8,7 @@
     },
     "Clarissa": {
       "role": "ALIEN",
-      "loc": "CENTRAL HUB",
+      "loc": "ENGINE",
       "status": "ALIVE",
       "petrified": false
     },
@@ -35,15 +35,15 @@
     "speed": 30,
     "signal": 40,
     "hide": 30,
-    "threat": 30
+    "threat": 35
   },
   "turnData": {
     "waiting": [
       "Clarissa",
       "Nana",
-      "Annie",
+      "Fiona",
       "Pearlyn",
-      "Fiona"
+      "Annie"
     ],
     "finished": []
   },
