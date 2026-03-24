@@ -14,7 +14,7 @@
     },
     "Nana": {
       "role": "HUMAN",
-      "loc": "SECURITY",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
@@ -26,31 +26,32 @@
     },
     "Fiona": {
       "role": "HUMAN",
-      "loc": "SCANNER",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     }
   },
   "bars": {
-    "speed": 30,
-    "signal": 30,
+    "speed": 50,
+    "signal": 20,
     "hide": 30,
-    "threat": 45
+    "threat": 50
   },
   "turnData": {
     "waiting": [
       "Nana",
       "Fiona",
       "Pearlyn",
-      "Annie",
-      "Clarissa"
+      "Clarissa",
+      "Annie"
     ],
     "finished": []
   },
   "roomStatus": {
     "Sync Stealth Systems": true,
-    "Initiate Emergency Broadcast": true,
-    "Repair Engine Core": true
+    "Repair Engine Core": true,
+    "Authorize Command Protocols": true,
+    "Synchronize Ship Systems": true
   },
   "metadata": {
     "totalRounds": 3,
