@@ -33,16 +33,16 @@
   },
   "bars": {
     "speed": 50,
-    "signal": 20,
+    "signal": 30,
     "hide": 30,
-    "threat": 50
+    "threat": 55
   },
   "turnData": {
     "waiting": [
+      "Clarissa",
       "Nana",
       "Fiona",
       "Pearlyn",
-      "Clarissa",
       "Annie"
     ],
     "finished": []
@@ -50,8 +50,9 @@
   "roomStatus": {
     "Sync Stealth Systems": true,
     "Repair Engine Core": true,
+    "Synchronize Ship Systems": true,
     "Authorize Command Protocols": true,
-    "Synchronize Ship Systems": true
+    "Initiate Emergency Broadcast": true
   },
   "metadata": {
     "totalRounds": 3,
