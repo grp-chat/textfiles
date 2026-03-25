@@ -2,7 +2,7 @@
   "players": {
     "Annie": {
       "role": "HUMAN",
-      "loc": "LIFE SUPPORT",
+      "loc": "POWER CORE",
       "status": "ALIVE",
       "petrified": false
     },
@@ -39,11 +39,11 @@
   },
   "turnData": {
     "waiting": [
-      "Nana",
-      "Fiona",
-      "Pearlyn",
       "Annie",
-      "Clarissa"
+      "Clarissa",
+      "Pearlyn",
+      "Fiona",
+      "Nana"
     ],
     "finished": []
   },
