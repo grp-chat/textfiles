@@ -32,7 +32,7 @@
     }
   },
   "bars": {
-    "speed": 90,
+    "speed": 100,
     "signal": 20,
     "hide": 20,
     "threat": 100
@@ -40,10 +40,10 @@
   "turnData": {
     "waiting": [
       "Annie",
-      "Clarissa",
-      "Pearlyn",
       "Fiona",
-      "Nana"
+      "Nana",
+      "Pearlyn",
+      "Clarissa"
     ],
     "finished": []
   },
@@ -54,7 +54,9 @@
     "Align Reactor Output": true,
     "Overhaul Thruster System": true,
     "Reroute Energy Distribution": true,
-    "Stabilize Crew Systems": true
+    "Stabilize Crew Systems": true,
+    "Stabilize Power Output": true,
+    "Reinforce Mechanical Systems": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -100,8 +102,8 @@
       "name": "Stabilize Power Output",
       "loc": "POWER CORE",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "Annie"
     },
     {
       "name": "Reroute Energy Distribution",
@@ -135,8 +137,8 @@
       "name": "Reinforce Mechanical Systems",
       "loc": "MAINTENANCE",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "Fiona"
     },
     {
       "name": "Reinforce Hull Integrity",
