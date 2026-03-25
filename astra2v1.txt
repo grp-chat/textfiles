@@ -8,7 +8,7 @@
     },
     "Clarissa": {
       "role": "HUMAN",
-      "loc": "SCANNER",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
@@ -39,8 +39,8 @@
   },
   "turnData": {
     "waiting": [
-      "Nana",
       "Clarissa",
+      "Nana",
       "Annie",
       "Pearlyn",
       "Fiona"
