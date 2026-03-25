@@ -14,7 +14,7 @@
     },
     "Nana": {
       "role": "ALIEN",
-      "loc": "POWER CORE",
+      "loc": "CARGO BAY",
       "status": "ALIVE",
       "petrified": false
     },
@@ -35,7 +35,7 @@
     "speed": 90,
     "signal": 20,
     "hide": 20,
-    "threat": 80
+    "threat": 85
   },
   "turnData": {
     "waiting": [
