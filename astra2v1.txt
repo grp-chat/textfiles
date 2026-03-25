@@ -2,7 +2,7 @@
   "players": {
     "Annie": {
       "role": "HUMAN",
-      "loc": "SCANNER",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
@@ -20,40 +20,40 @@
     },
     "Pearlyn": {
       "role": "HUMAN",
-      "loc": "NAVIGATION",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "Fiona": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "SECURITY",
       "status": "ALIVE",
       "petrified": false
     }
   },
   "bars": {
-    "speed": 40,
+    "speed": 50,
     "signal": 40,
-    "hide": 40,
-    "threat": 60
+    "hide": 30,
+    "threat": 65
   },
   "turnData": {
     "waiting": [
       "Nana",
-      "Fiona",
       "Pearlyn",
+      "Fiona",
       "Annie",
       "Clarissa"
     ],
     "finished": []
   },
   "roomStatus": {
-    "Sync Stealth Systems": true,
     "Repair Engine Core": true,
     "Synchronize Ship Systems": true,
     "Initiate Emergency Broadcast": true,
     "Synchronize Comm Systems": true,
-    "Initiate Stealth Protocol": true
+    "Initiate Stealth Protocol": true,
+    "Authorize Command Protocols": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -162,8 +162,8 @@
       "name": "Authorize Command Protocols",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "Nana"
     },
     {
       "name": "Synchronize Comm Systems",
