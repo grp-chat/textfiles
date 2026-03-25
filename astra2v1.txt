@@ -14,7 +14,7 @@
     },
     "Nana": {
       "role": "ALIEN",
-      "loc": "POWER CORE",
+      "loc": "SECURITY",
       "status": "ALIVE",
       "petrified": false
     },
@@ -39,11 +39,11 @@
   },
   "turnData": {
     "waiting": [
-      "Clarissa",
       "Nana",
-      "Annie",
+      "Fiona",
       "Pearlyn",
-      "Fiona"
+      "Annie",
+      "Clarissa"
     ],
     "finished": []
   },
