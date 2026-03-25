@@ -20,22 +20,22 @@
     },
     "Pearlyn": {
       "role": "HUMAN",
-      "loc": "ENGINE",
+      "loc": "FUEL CONTROL",
       "status": "ALIVE",
       "petrified": false
     },
     "Fiona": {
       "role": "HUMAN",
-      "loc": "ENGINE",
+      "loc": "FUEL CONTROL",
       "status": "ALIVE",
       "petrified": false
     }
   },
   "bars": {
-    "speed": 70,
+    "speed": 90,
     "signal": 20,
-    "hide": 30,
-    "threat": 75
+    "hide": 20,
+    "threat": 80
   },
   "turnData": {
     "waiting": [
@@ -50,10 +50,11 @@
   "roomStatus": {
     "Repair Engine Core": true,
     "Synchronize Ship Systems": true,
-    "Initiate Stealth Protocol": true,
     "Authorize Command Protocols": true,
     "Align Reactor Output": true,
-    "Overhaul Thruster System": true
+    "Overhaul Thruster System": true,
+    "Reroute Energy Distribution": true,
+    "Stabilize Crew Systems": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -106,8 +107,8 @@
       "name": "Reroute Energy Distribution",
       "loc": "POWER CORE",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "Nana"
     },
     {
       "name": "Stabilize Signal Power",
@@ -190,15 +191,15 @@
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": true,
-      "completedBy": "Fiona"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Stabilize Crew Systems",
       "loc": "LIFE SUPPORT",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "Annie"
     },
     {
       "name": "Stabilize Internal Systems",
