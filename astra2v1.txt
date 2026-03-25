@@ -2,31 +2,31 @@
   "players": {
     "Annie": {
       "role": "HUMAN",
-      "loc": "LIFE SUPPORT",
+      "loc": "DATA CORE",
       "status": "ALIVE",
       "petrified": false
     },
     "Clarissa": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
     "Nana": {
       "role": "ALIEN",
-      "loc": "CARGO BAY",
+      "loc": "POWER CORE",
       "status": "ALIVE",
       "petrified": false
     },
     "Pearlyn": {
       "role": "HUMAN",
-      "loc": "FUEL CONTROL",
+      "loc": "ENGINE",
       "status": "ALIVE",
       "petrified": false
     },
     "Fiona": {
       "role": "HUMAN",
-      "loc": "FUEL CONTROL",
+      "loc": "CARGO BAY",
       "status": "ALIVE",
       "petrified": false
     }
@@ -35,7 +35,7 @@
     "speed": 90,
     "signal": 20,
     "hide": 20,
-    "threat": 85
+    "threat": 90
   },
   "turnData": {
     "waiting": [
