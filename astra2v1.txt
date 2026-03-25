@@ -7,13 +7,13 @@
       "petrified": false
     },
     "Clarissa": {
-      "role": "ALIEN",
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "Nana": {
-      "role": "HUMAN",
+      "role": "ALIEN",
       "loc": "POWER CORE",
       "status": "ALIVE",
       "petrified": false
