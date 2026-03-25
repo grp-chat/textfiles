@@ -2,7 +2,7 @@
   "players": {
     "Annie": {
       "role": "HUMAN",
-      "loc": "SECURITY",
+      "loc": "LIFE SUPPORT",
       "status": "ALIVE",
       "petrified": false
     },
@@ -14,7 +14,7 @@
     },
     "Nana": {
       "role": "HUMAN",
-      "loc": "SECURITY",
+      "loc": "POWER CORE",
       "status": "ALIVE",
       "petrified": false
     },
@@ -32,10 +32,10 @@
     }
   },
   "bars": {
-    "speed": 50,
-    "signal": 30,
+    "speed": 70,
+    "signal": 20,
     "hide": 30,
-    "threat": 70
+    "threat": 75
   },
   "turnData": {
     "waiting": [
@@ -50,9 +50,10 @@
   "roomStatus": {
     "Repair Engine Core": true,
     "Synchronize Ship Systems": true,
-    "Synchronize Comm Systems": true,
     "Initiate Stealth Protocol": true,
-    "Authorize Command Protocols": true
+    "Authorize Command Protocols": true,
+    "Align Reactor Output": true,
+    "Overhaul Thruster System": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -70,15 +71,15 @@
       "name": "Align Reactor Output",
       "loc": "ENGINE",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "Pearlyn"
     },
     {
       "name": "Overhaul Thruster System",
       "loc": "ENGINE",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "Fiona"
     },
     {
       "name": "Refuel Main Tanks",
@@ -168,8 +169,8 @@
       "name": "Synchronize Comm Systems",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": true,
-      "completedBy": "Nana"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Initiate Emergency Broadcast",
