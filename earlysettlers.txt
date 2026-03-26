@@ -40,6 +40,27 @@
           "name": "6",
           "teamId": "none",
           "absent": false
+        },
+        {
+          "id": "psmil3ky3d",
+          "name": "7",
+          "teamId": "none",
+          "groupId": 0,
+          "absent": false
+        },
+        {
+          "id": "pxzve3weqa",
+          "name": "8",
+          "teamId": "none",
+          "groupId": 0,
+          "absent": false
+        },
+        {
+          "id": "pvrislh9fd",
+          "name": "9",
+          "teamId": "none",
+          "groupId": 0,
+          "absent": false
         }
       ]
     }
