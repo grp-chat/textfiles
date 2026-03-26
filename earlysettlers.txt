@@ -58,7 +58,7 @@
           "id": "pvrislh9fd",
           "name": "9",
           "teamId": "blue",
-          "groupId": 3,
+          "groupId": 2,
           "absent": false
         }
       ]
