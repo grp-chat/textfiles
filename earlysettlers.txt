@@ -9,36 +9,36 @@
           "id": "puo5vv9bkv",
           "name": "1",
           "teamId": "red",
-          "absent": false,
-          "groupId": 1
+          "groupId": 1,
+          "absent": false
         },
         {
           "id": "pzfnbdwila",
           "name": "2",
           "teamId": "red",
-          "absent": false,
-          "groupId": 1
+          "groupId": 1,
+          "absent": false
         },
         {
           "id": "p0qwaby8au",
           "name": "3",
           "teamId": "red",
-          "absent": false,
-          "groupId": 2
+          "groupId": 2,
+          "absent": false
         },
         {
           "id": "pnrtngf7c9",
           "name": "4",
           "teamId": "red",
-          "absent": false,
-          "groupId": 2
+          "groupId": 2,
+          "absent": false
         },
         {
           "id": "piqhsvmgja",
           "name": "6",
           "teamId": "blue",
-          "absent": false,
-          "groupId": 1
+          "groupId": 1,
+          "absent": false
         },
         {
           "id": "psmil3ky3d",
@@ -57,6 +57,13 @@
         {
           "id": "pvrislh9fd",
           "name": "9",
+          "teamId": "blue",
+          "groupId": 2,
+          "absent": false
+        },
+        {
+          "id": "p8fi3a5i1r",
+          "name": "5",
           "teamId": "blue",
           "groupId": 2,
           "absent": false
