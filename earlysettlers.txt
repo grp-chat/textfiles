@@ -4,7 +4,14 @@
   },
   "schools": {
     "SK Seri Bintang": {
-      "players": []
+      "players": [
+        {
+          "id": "p1774516549905",
+          "name": "tst",
+          "teamId": "none",
+          "absent": false
+        }
+      ]
     }
   }
 }
