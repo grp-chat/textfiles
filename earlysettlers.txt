@@ -4,7 +4,44 @@
   },
   "schools": {
     "SK Seri Bintang": {
-      "players": []
+      "players": [
+        {
+          "id": "puo5vv9bkv",
+          "name": "1",
+          "teamId": "none",
+          "absent": false
+        },
+        {
+          "id": "pzfnbdwila",
+          "name": "2",
+          "teamId": "none",
+          "absent": false
+        },
+        {
+          "id": "p0qwaby8au",
+          "name": "3",
+          "teamId": "none",
+          "absent": false
+        },
+        {
+          "id": "pnrtngf7c9",
+          "name": "4",
+          "teamId": "none",
+          "absent": false
+        },
+        {
+          "id": "pff8no2fsn",
+          "name": "5",
+          "teamId": "none",
+          "absent": false
+        },
+        {
+          "id": "piqhsvmgja",
+          "name": "6",
+          "teamId": "none",
+          "absent": false
+        }
+      ]
     }
   }
 }
