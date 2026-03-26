@@ -34,13 +34,6 @@
           "groupId": 2
         },
         {
-          "id": "pff8no2fsn",
-          "name": "5",
-          "teamId": "red",
-          "absent": false,
-          "groupId": 3
-        },
-        {
           "id": "piqhsvmgja",
           "name": "6",
           "teamId": "blue",
