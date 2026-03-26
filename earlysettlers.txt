@@ -1,1 +1,13 @@
-
+{
+  "settings": {
+    "currentSchool": "SK Seri Bintang"
+  },
+  "schools": {
+    "SK Seri Bintang": {
+      "players": [
+        {"id": "p1", "name": "Student A", "teamId": "red_knights", "absent": false},
+        {"id": "p2", "name": "Student B", "teamId": "blue_settlers", "absent": false}
+      ]
+    }
+  }
+}
