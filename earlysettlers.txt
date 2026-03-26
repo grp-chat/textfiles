@@ -6,12 +6,6 @@
     "SK Seri Bintang": {
       "players": [
         {
-          "id": "p7qs4dc7is",
-          "name": "2",
-          "teamId": "none",
-          "absent": false
-        },
-        {
           "id": "pkfiv81jci",
           "name": "3",
           "teamId": "none",
