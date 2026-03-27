@@ -67,8 +67,38 @@
           "teamId": "blue",
           "groupId": 2,
           "absent": false
+        },
+        {
+          "id": "p3sgat3zlj",
+          "name": "10",
+          "teamId": "none",
+          "groupId": 0,
+          "absent": false
         }
-      ]
+      ],
+      "teamStats": {
+        "red": {
+          "wood": 0,
+          "clay": 0,
+          "stone": 0,
+          "points": 0,
+          "buildings": []
+        },
+        "blue": {
+          "wood": 0,
+          "clay": 0,
+          "stone": 0,
+          "points": 0,
+          "buildings": []
+        },
+        "none": {
+          "wood": 0,
+          "clay": 0,
+          "stone": 0,
+          "points": 0,
+          "buildings": []
+        }
+      }
     }
   }
 }
