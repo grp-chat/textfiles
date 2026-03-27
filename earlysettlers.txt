@@ -86,7 +86,7 @@
         },
         "blue": {
           "wood": 2,
-          "clay": 0,
+          "clay": 1,
           "stone": 0,
           "points": 0,
           "buildings": []
