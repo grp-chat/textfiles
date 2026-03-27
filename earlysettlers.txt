@@ -71,7 +71,7 @@
         {
           "id": "p3sgat3zlj",
           "name": "10",
-          "teamId": "none",
+          "teamId": "red",
           "groupId": 0,
           "absent": false
         }
