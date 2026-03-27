@@ -80,7 +80,7 @@
         "red": {
           "wood": 1,
           "clay": 0,
-          "stone": 0,
+          "stone": 1,
           "points": 0,
           "buildings": []
         },
