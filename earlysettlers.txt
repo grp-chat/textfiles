@@ -65,14 +65,14 @@
           "id": "p8fi3a5i1r",
           "name": "5",
           "teamId": "blue",
-          "groupId": 2,
+          "groupId": 3,
           "absent": false
         },
         {
           "id": "p3sgat3zlj",
           "name": "10",
           "teamId": "red",
-          "groupId": 2,
+          "groupId": 3,
           "absent": false
         }
       ],
