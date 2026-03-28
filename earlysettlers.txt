@@ -78,7 +78,7 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 0,
+          "wood": 5,
           "clay": 1,
           "stone": 3,
           "points": 0,
