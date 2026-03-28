@@ -85,11 +85,30 @@
           "buildings": []
         },
         "blue": {
-          "wood": 4,
-          "clay": 2,
-          "stone": 1,
+          "wood": 1,
+          "clay": 0,
+          "stone": 2,
           "points": 0,
-          "buildings": []
+          "buildings": [
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "6",
+              "timestamp": 1774689068821
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "6",
+              "timestamp": 1774689193971
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "7",
+              "timestamp": 1774689216456
+            }
+          ]
         }
       }
     }
