@@ -134,9 +134,9 @@
           ]
         },
         "blue": {
-          "wood": 5,
+          "wood": 0,
           "clay": 1,
-          "stone": 1,
+          "stone": 0,
           "points": 0,
           "buildings": [
             {
@@ -204,6 +204,24 @@
               "name": "Boat",
               "builtBy": "6",
               "timestamp": 1774692963774
+            },
+            {
+              "id": "fishing_pier",
+              "name": "Fishing Pier",
+              "builtBy": "7",
+              "timestamp": 1774693144062
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "5",
+              "timestamp": 1774693153044
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "5",
+              "timestamp": 1774693164129
             }
           ]
         }
