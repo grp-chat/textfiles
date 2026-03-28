@@ -147,9 +147,9 @@
           "woodBonusCounter": 0
         },
         "blue": {
-          "wood": 7,
-          "clay": 7,
-          "stone": 1,
+          "wood": 0,
+          "clay": 0,
+          "stone": 0,
           "points": 0,
           "buildings": [
             {
@@ -247,9 +247,27 @@
               "name": "Farm House",
               "builtBy": "5",
               "timestamp": 1774718717662
+            },
+            {
+              "id": "farm_house",
+              "name": "Farm House",
+              "builtBy": "5",
+              "timestamp": 1774718850749
+            },
+            {
+              "id": "cooking_hearth",
+              "name": "Cooking Hearth",
+              "builtBy": "6",
+              "timestamp": 1774718872957
+            },
+            {
+              "id": "holiday_house",
+              "name": "Holiday House",
+              "builtBy": "6",
+              "timestamp": 1774718994661
             }
           ],
-          "woodBonusCounter": 0
+          "woodBonusCounter": 1
         }
       }
     }
