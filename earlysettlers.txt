@@ -147,9 +147,9 @@
           "woodBonusCounter": 0
         },
         "blue": {
-          "wood": 5,
-          "clay": 0,
-          "stone": 0,
+          "wood": 2,
+          "clay": 1,
+          "stone": 1,
           "points": 0,
           "buildings": [
             {
@@ -241,6 +241,12 @@
               "name": "Lumber Mill",
               "builtBy": "5",
               "timestamp": 1774716049939
+            },
+            {
+              "id": "farm_house",
+              "name": "Farm House",
+              "builtBy": "5",
+              "timestamp": 1774718717662
             }
           ],
           "woodBonusCounter": 0
