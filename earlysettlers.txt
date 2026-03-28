@@ -78,8 +78,8 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 1,
-          "clay": 1,
+          "wood": 0,
+          "clay": 2,
           "stone": 0,
           "points": 0,
           "buildings": [
@@ -130,6 +130,18 @@
               "name": "Fishing Pier",
               "builtBy": "2",
               "timestamp": 1774693072218
+            },
+            {
+              "id": "cooking_hearth",
+              "name": "Cooking Hearth",
+              "builtBy": "1",
+              "timestamp": 1774713423738
+            },
+            {
+              "id": "clay_oven",
+              "name": "Clay Oven",
+              "builtBy": "1",
+              "timestamp": 1774713441539
             }
           ]
         },
