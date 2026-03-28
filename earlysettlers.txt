@@ -143,11 +143,12 @@
               "builtBy": "1",
               "timestamp": 1774713441539
             }
-          ]
+          ],
+          "woodBonusCounter": 0
         },
         "blue": {
-          "wood": 0,
-          "clay": 1,
+          "wood": 2,
+          "clay": 0,
           "stone": 0,
           "points": 0,
           "buildings": [
@@ -234,8 +235,15 @@
               "name": "Boat",
               "builtBy": "5",
               "timestamp": 1774693164129
+            },
+            {
+              "id": "lumber_mill",
+              "name": "Lumber Mill",
+              "builtBy": "5",
+              "timestamp": 1774716049939
             }
-          ]
+          ],
+          "woodBonusCounter": 2
         }
       }
     }
