@@ -78,9 +78,9 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 5,
+          "wood": 0,
           "clay": 1,
-          "stone": 3,
+          "stone": 0,
           "points": 0,
           "buildings": [
             {
@@ -94,6 +94,36 @@
               "name": "Fences",
               "builtBy": "1",
               "timestamp": 1774690438711
+            },
+            {
+              "id": "fishing_pier",
+              "name": "Fishing Pier",
+              "builtBy": "10",
+              "timestamp": 1774692107071
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "1",
+              "timestamp": 1774692123915
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "1",
+              "timestamp": 1774692141844
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "1",
+              "timestamp": 1774692162695
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "1",
+              "timestamp": 1774692226366
             }
           ]
         },
