@@ -144,6 +144,12 @@
               "name": "Garden",
               "builtBy": "6",
               "timestamp": 1774689652005
+            },
+            {
+              "id": "fences",
+              "name": "Fences",
+              "builtBy": "6",
+              "timestamp": 1774690550938
             }
           ]
         }
