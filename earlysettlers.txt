@@ -78,11 +78,24 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 2,
+          "wood": 0,
           "clay": 1,
           "stone": 3,
           "points": 0,
-          "buildings": []
+          "buildings": [
+            {
+              "id": "fences",
+              "name": "Fences",
+              "builtBy": "1",
+              "timestamp": 1774690400420
+            },
+            {
+              "id": "fences",
+              "name": "Fences",
+              "builtBy": "1",
+              "timestamp": 1774690438711
+            }
+          ]
         },
         "blue": {
           "wood": 1,
