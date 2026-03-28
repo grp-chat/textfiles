@@ -78,7 +78,7 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 6,
+          "wood": 1,
           "clay": 1,
           "stone": 0,
           "points": 0,
@@ -124,13 +124,19 @@
               "name": "Boat",
               "builtBy": "1",
               "timestamp": 1774692226366
+            },
+            {
+              "id": "fishing_pier",
+              "name": "Fishing Pier",
+              "builtBy": "2",
+              "timestamp": 1774693072218
             }
           ]
         },
         "blue": {
-          "wood": 1,
+          "wood": 5,
           "clay": 1,
-          "stone": 0,
+          "stone": 1,
           "points": 0,
           "buildings": [
             {
