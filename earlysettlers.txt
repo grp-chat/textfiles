@@ -128,7 +128,7 @@
           ]
         },
         "blue": {
-          "wood": 1,
+          "wood": 6,
           "clay": 1,
           "stone": 1,
           "points": 0,
