@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 0,
-          "clay": 2,
+          "wood": 1,
+          "clay": 0,
           "stone": 0,
-          "points": 0,
+          "points": 17,
           "buildings": [
             {
               "id": "fences",
@@ -142,6 +142,18 @@
               "name": "Clay Oven",
               "builtBy": "1",
               "timestamp": 1774713441539
+            },
+            {
+              "id": "cooking_hearth",
+              "name": "Cooking Hearth",
+              "builtBy": "1",
+              "timestamp": 1774720085605
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "1",
+              "timestamp": 1774720198587
             }
           ],
           "woodBonusCounter": 0
@@ -150,7 +162,7 @@
           "wood": 0,
           "clay": 0,
           "stone": 0,
-          "points": 0,
+          "points": 35,
           "buildings": [
             {
               "id": "garden",
@@ -265,9 +277,15 @@
               "name": "Holiday House",
               "builtBy": "6",
               "timestamp": 1774718994661
+            },
+            {
+              "id": "fireplace",
+              "name": "Fireplace",
+              "builtBy": "5",
+              "timestamp": 1774720129648
             }
           ],
-          "woodBonusCounter": 1
+          "woodBonusCounter": 2
         }
       }
     }
