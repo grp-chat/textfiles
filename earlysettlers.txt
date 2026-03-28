@@ -85,9 +85,9 @@
           "buildings": []
         },
         "blue": {
-          "wood": 0,
-          "clay": 1,
-          "stone": 5,
+          "wood": 1,
+          "clay": 0,
+          "stone": 0,
           "points": 0,
           "buildings": [
             {
@@ -119,6 +119,18 @@
               "name": "Well",
               "builtBy": "6",
               "timestamp": 1774689557638
+            },
+            {
+              "id": "conservatory",
+              "name": "Conservatory",
+              "builtBy": "6",
+              "timestamp": 1774689608779
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "6",
+              "timestamp": 1774689652005
             }
           ]
         }
