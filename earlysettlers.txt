@@ -1,315 +1,293 @@
 {
-  "currentSchool": "SK Seri Bintang",
-  "players": [
-    {
-      "id": "puo5vv9bkv",
-      "name": "1",
-      "teamId": "red",
-      "groupId": 1,
-      "absent": false
-    },
-    {
-      "id": "pzfnbdwila",
-      "name": "2",
-      "teamId": "red",
-      "groupId": 1,
-      "absent": false
-    },
-    {
-      "id": "p0qwaby8au",
-      "name": "3",
-      "teamId": "red",
-      "groupId": 2,
-      "absent": false
-    },
-    {
-      "id": "pnrtngf7c9",
-      "name": "4",
-      "teamId": "red",
-      "groupId": 2,
-      "absent": false
-    },
-    {
-      "id": "piqhsvmgja",
-      "name": "6",
-      "teamId": "blue",
-      "groupId": 1,
-      "absent": false
-    },
-    {
-      "id": "psmil3ky3d",
-      "name": "7",
-      "teamId": "blue",
-      "groupId": 1,
-      "absent": false
-    },
-    {
-      "id": "pxzve3weqa",
-      "name": "8",
-      "teamId": "blue",
-      "groupId": 2,
-      "absent": false
-    },
-    {
-      "id": "pvrislh9fd",
-      "name": "9",
-      "teamId": "blue",
-      "groupId": 2,
-      "absent": false
-    },
-    {
-      "id": "p8fi3a5i1r",
-      "name": "5",
-      "teamId": "blue",
-      "groupId": 3,
-      "absent": false
-    },
-    {
-      "id": "p3sgat3zlj",
-      "name": "10",
-      "teamId": "red",
-      "groupId": 3,
-      "absent": false
-    }
-  ],
-  "teamStats": {
-    "red": {
-      "wood": 2,
-      "clay": 1,
-      "stone": 1,
-      "points": 17,
-      "buildings": [
+  "settings": {
+    "currentSchool": "SK Seri Bintang"
+  },
+  "schools": {
+    "SK Seri Bintang": {
+      "players": [
         {
-          "id": "fences",
-          "name": "Fences",
-          "builtBy": "1",
-          "timestamp": 1774690400420
+          "id": "puo5vv9bkv",
+          "name": "1",
+          "teamId": "red",
+          "groupId": 1,
+          "absent": false
         },
         {
-          "id": "fences",
-          "name": "Fences",
-          "builtBy": "1",
-          "timestamp": 1774690438711
+          "id": "pzfnbdwila",
+          "name": "2",
+          "teamId": "red",
+          "groupId": 1,
+          "absent": false
         },
         {
-          "id": "fishing_pier",
-          "name": "Fishing Pier",
-          "builtBy": "10",
-          "timestamp": 1774692107071
+          "id": "p0qwaby8au",
+          "name": "3",
+          "teamId": "red",
+          "groupId": 2,
+          "absent": false
         },
         {
-          "id": "boat",
-          "name": "Boat",
-          "builtBy": "1",
-          "timestamp": 1774692123915
+          "id": "pnrtngf7c9",
+          "name": "4",
+          "teamId": "red",
+          "groupId": 2,
+          "absent": false
         },
         {
-          "id": "boat",
-          "name": "Boat",
-          "builtBy": "1",
-          "timestamp": 1774692141844
+          "id": "piqhsvmgja",
+          "name": "6",
+          "teamId": "blue",
+          "groupId": 1,
+          "absent": false
         },
         {
-          "id": "boat",
-          "name": "Boat",
-          "builtBy": "1",
-          "timestamp": 1774692162695
+          "id": "psmil3ky3d",
+          "name": "7",
+          "teamId": "blue",
+          "groupId": 1,
+          "absent": false
         },
         {
-          "id": "boat",
-          "name": "Boat",
-          "builtBy": "1",
-          "timestamp": 1774692226366
+          "id": "pxzve3weqa",
+          "name": "8",
+          "teamId": "blue",
+          "groupId": 2,
+          "absent": false
         },
         {
-          "id": "fishing_pier",
-          "name": "Fishing Pier",
-          "builtBy": "2",
-          "timestamp": 1774693072218
+          "id": "pvrislh9fd",
+          "name": "9",
+          "teamId": "blue",
+          "groupId": 2,
+          "absent": false
         },
         {
-          "id": "cooking_hearth",
-          "name": "Cooking Hearth",
-          "builtBy": "1",
-          "timestamp": 1774713423738
+          "id": "p8fi3a5i1r",
+          "name": "5",
+          "teamId": "blue",
+          "groupId": 3,
+          "absent": false
         },
         {
-          "id": "clay_oven",
-          "name": "Clay Oven",
-          "builtBy": "1",
-          "timestamp": 1774713441539
-        },
-        {
-          "id": "cooking_hearth",
-          "name": "Cooking Hearth",
-          "builtBy": "1",
-          "timestamp": 1774720085605
-        },
-        {
-          "id": "garden",
-          "name": "Garden",
-          "builtBy": "1",
-          "timestamp": 1774720198587
+          "id": "p3sgat3zlj",
+          "name": "10",
+          "teamId": "red",
+          "groupId": 3,
+          "absent": false
         }
       ],
-      "woodBonusCounter": 0
-    },
-    "blue": {
-      "wood": 1,
-      "clay": 2,
-      "stone": 2,
-      "points": 35,
-      "buildings": [
-        {
-          "id": "garden",
-          "name": "Garden",
-          "builtBy": "6",
-          "timestamp": 1774689068821
+      "teamStats": {
+        "red": {
+          "wood": 1,
+          "clay": 0,
+          "stone": 0,
+          "points": 17,
+          "buildings": [
+            {
+              "id": "fences",
+              "name": "Fences",
+              "builtBy": "1",
+              "timestamp": 1774690400420
+            },
+            {
+              "id": "fences",
+              "name": "Fences",
+              "builtBy": "1",
+              "timestamp": 1774690438711
+            },
+            {
+              "id": "fishing_pier",
+              "name": "Fishing Pier",
+              "builtBy": "10",
+              "timestamp": 1774692107071
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "1",
+              "timestamp": 1774692123915
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "1",
+              "timestamp": 1774692141844
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "1",
+              "timestamp": 1774692162695
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "1",
+              "timestamp": 1774692226366
+            },
+            {
+              "id": "fishing_pier",
+              "name": "Fishing Pier",
+              "builtBy": "2",
+              "timestamp": 1774693072218
+            },
+            {
+              "id": "cooking_hearth",
+              "name": "Cooking Hearth",
+              "builtBy": "1",
+              "timestamp": 1774713423738
+            },
+            {
+              "id": "clay_oven",
+              "name": "Clay Oven",
+              "builtBy": "1",
+              "timestamp": 1774713441539
+            },
+            {
+              "id": "cooking_hearth",
+              "name": "Cooking Hearth",
+              "builtBy": "1",
+              "timestamp": 1774720085605
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "1",
+              "timestamp": 1774720198587
+            }
+          ],
+          "woodBonusCounter": 0
         },
-        {
-          "id": "garden",
-          "name": "Garden",
-          "builtBy": "6",
-          "timestamp": 1774689193971
-        },
-        {
-          "id": "garden",
-          "name": "Garden",
-          "builtBy": "7",
-          "timestamp": 1774689216456
-        },
-        {
-          "id": "garden",
-          "name": "Garden",
-          "builtBy": "6",
-          "timestamp": 1774689441047
-        },
-        {
-          "id": "well",
-          "name": "Well",
-          "builtBy": "6",
-          "timestamp": 1774689557638
-        },
-        {
-          "id": "conservatory",
-          "name": "Conservatory",
-          "builtBy": "6",
-          "timestamp": 1774689608779
-        },
-        {
-          "id": "garden",
-          "name": "Garden",
-          "builtBy": "6",
-          "timestamp": 1774689652005
-        },
-        {
-          "id": "fences",
-          "name": "Fences",
-          "builtBy": "6",
-          "timestamp": 1774690550938
-        },
-        {
-          "id": "fishing_pier",
-          "name": "Fishing Pier",
-          "builtBy": "7",
-          "timestamp": 1774692942942
-        },
-        {
-          "id": "boat",
-          "name": "Boat",
-          "builtBy": "6",
-          "timestamp": 1774692957889
-        },
-        {
-          "id": "boat",
-          "name": "Boat",
-          "builtBy": "6",
-          "timestamp": 1774692963774
-        },
-        {
-          "id": "fishing_pier",
-          "name": "Fishing Pier",
-          "builtBy": "7",
-          "timestamp": 1774693144062
-        },
-        {
-          "id": "boat",
-          "name": "Boat",
-          "builtBy": "5",
-          "timestamp": 1774693153044
-        },
-        {
-          "id": "boat",
-          "name": "Boat",
-          "builtBy": "5",
-          "timestamp": 1774693164129
-        },
-        {
-          "id": "lumber_mill",
-          "name": "Lumber Mill",
-          "builtBy": "5",
-          "timestamp": 1774716049939
-        },
-        {
-          "id": "farm_house",
-          "name": "Farm House",
-          "builtBy": "5",
-          "timestamp": 1774718717662
-        },
-        {
-          "id": "farm_house",
-          "name": "Farm House",
-          "builtBy": "5",
-          "timestamp": 1774718850749
-        },
-        {
-          "id": "cooking_hearth",
-          "name": "Cooking Hearth",
-          "builtBy": "6",
-          "timestamp": 1774718872957
-        },
-        {
-          "id": "holiday_house",
-          "name": "Holiday House",
-          "builtBy": "6",
-          "timestamp": 1774718994661
-        },
-        {
-          "id": "fireplace",
-          "name": "Fireplace",
-          "builtBy": "5",
-          "timestamp": 1774720129648
+        "blue": {
+          "wood": 0,
+          "clay": 0,
+          "stone": 0,
+          "points": 35,
+          "buildings": [
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "6",
+              "timestamp": 1774689068821
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "6",
+              "timestamp": 1774689193971
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "7",
+              "timestamp": 1774689216456
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "6",
+              "timestamp": 1774689441047
+            },
+            {
+              "id": "well",
+              "name": "Well",
+              "builtBy": "6",
+              "timestamp": 1774689557638
+            },
+            {
+              "id": "conservatory",
+              "name": "Conservatory",
+              "builtBy": "6",
+              "timestamp": 1774689608779
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "6",
+              "timestamp": 1774689652005
+            },
+            {
+              "id": "fences",
+              "name": "Fences",
+              "builtBy": "6",
+              "timestamp": 1774690550938
+            },
+            {
+              "id": "fishing_pier",
+              "name": "Fishing Pier",
+              "builtBy": "7",
+              "timestamp": 1774692942942
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "6",
+              "timestamp": 1774692957889
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "6",
+              "timestamp": 1774692963774
+            },
+            {
+              "id": "fishing_pier",
+              "name": "Fishing Pier",
+              "builtBy": "7",
+              "timestamp": 1774693144062
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "5",
+              "timestamp": 1774693153044
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "5",
+              "timestamp": 1774693164129
+            },
+            {
+              "id": "lumber_mill",
+              "name": "Lumber Mill",
+              "builtBy": "5",
+              "timestamp": 1774716049939
+            },
+            {
+              "id": "farm_house",
+              "name": "Farm House",
+              "builtBy": "5",
+              "timestamp": 1774718717662
+            },
+            {
+              "id": "farm_house",
+              "name": "Farm House",
+              "builtBy": "5",
+              "timestamp": 1774718850749
+            },
+            {
+              "id": "cooking_hearth",
+              "name": "Cooking Hearth",
+              "builtBy": "6",
+              "timestamp": 1774718872957
+            },
+            {
+              "id": "holiday_house",
+              "name": "Holiday House",
+              "builtBy": "6",
+              "timestamp": 1774718994661
+            },
+            {
+              "id": "fireplace",
+              "name": "Fireplace",
+              "builtBy": "5",
+              "timestamp": 1774720129648
+            }
+          ],
+          "woodBonusCounter": 2
         }
-      ],
-      "woodBonusCounter": 2
-    },
-    "green": {
-      "wood": 0,
-      "clay": 0,
-      "stone": 0,
-      "points": 0,
-      "buildings": []
-    },
-    "purple": {
-      "wood": 0,
-      "clay": 0,
-      "stone": 0,
-      "points": 0,
-      "buildings": []
-    },
-    "yellow": {
-      "wood": 0,
-      "clay": 0,
-      "stone": 0,
-      "points": 0,
-      "buildings": []
-    },
-    "none": {
-      "wood": 0,
-      "clay": 0,
-      "stone": 0,
-      "points": 0,
-      "buildings": []
+      }
     }
   },
   "config": {
