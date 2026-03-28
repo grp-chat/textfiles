@@ -147,8 +147,8 @@
           "woodBonusCounter": 0
         },
         "blue": {
-          "wood": 4,
-          "clay": 4,
+          "wood": 7,
+          "clay": 7,
           "stone": 1,
           "points": 0,
           "buildings": [
@@ -249,7 +249,7 @@
               "timestamp": 1774718717662
             }
           ],
-          "woodBonusCounter": 2
+          "woodBonusCounter": 0
         }
       }
     }
