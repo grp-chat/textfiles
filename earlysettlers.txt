@@ -85,9 +85,9 @@
           "buildings": []
         },
         "blue": {
-          "wood": 1,
+          "wood": 0,
           "clay": 0,
-          "stone": 2,
+          "stone": 5,
           "points": 0,
           "buildings": [
             {
@@ -107,6 +107,12 @@
               "name": "Garden",
               "builtBy": "7",
               "timestamp": 1774689216456
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "6",
+              "timestamp": 1774689441047
             }
           ]
         }
