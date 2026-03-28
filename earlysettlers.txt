@@ -86,7 +86,7 @@
         },
         "blue": {
           "wood": 0,
-          "clay": 0,
+          "clay": 1,
           "stone": 5,
           "points": 0,
           "buildings": [
@@ -113,6 +113,12 @@
               "name": "Garden",
               "builtBy": "6",
               "timestamp": 1774689441047
+            },
+            {
+              "id": "well",
+              "name": "Well",
+              "builtBy": "6",
+              "timestamp": 1774689557638
             }
           ]
         }
