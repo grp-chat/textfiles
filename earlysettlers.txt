@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 2,
+          "wood": 1,
           "clay": 1,
           "stone": 0,
-          "points": 17,
+          "points": 18,
           "buildings": [
             {
               "id": "fences",
@@ -154,6 +154,12 @@
               "name": "Garden",
               "builtBy": "1",
               "timestamp": 1774720198587
+            },
+            {
+              "id": "lumber_mill",
+              "name": "Lumber Mill",
+              "builtBy": "1",
+              "timestamp": 1774767438901
             }
           ],
           "woodBonusCounter": 0
@@ -161,8 +167,8 @@
         "blue": {
           "wood": 0,
           "clay": 0,
-          "stone": 0,
-          "points": 35,
+          "stone": 1,
+          "points": 37,
           "buildings": [
             {
               "id": "garden",
@@ -283,9 +289,15 @@
               "name": "Fireplace",
               "builtBy": "5",
               "timestamp": 1774720129648
+            },
+            {
+              "id": "stable",
+              "name": "Stable",
+              "builtBy": "5",
+              "timestamp": 1774767711169
             }
           ],
-          "woodBonusCounter": 2
+          "woodBonusCounter": 3
         }
       }
     }
