@@ -79,7 +79,7 @@
       "teamStats": {
         "red": {
           "wood": 1,
-          "clay": 1,
+          "clay": 2,
           "stone": 0,
           "points": 18,
           "buildings": [
@@ -309,7 +309,7 @@
       "clay",
       "clay",
       "stone",
-      "stone"
+      "random"
     ]
   }
 }
