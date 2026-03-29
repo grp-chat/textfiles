@@ -7,7 +7,7 @@
       "petrified": false
     },
     "Clarissa": {
-      "role": "HUMAN",
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
@@ -19,7 +19,7 @@
       "petrified": false
     },
     "Aum": {
-      "role": "ALIEN",
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
