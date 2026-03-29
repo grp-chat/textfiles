@@ -2,19 +2,19 @@
   "players": {
     "Annie": {
       "role": "HUMAN",
-      "loc": "POWER CORE",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "Clarissa": {
-      "role": "HUMAN",
-      "loc": "ENGINE",
+      "role": "ALIEN",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "Nana": {
-      "role": "ALIEN",
-      "loc": "POWER CORE",
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
@@ -26,38 +26,28 @@
     },
     "Fiona": {
       "role": "HUMAN",
-      "loc": "MAINTENANCE",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     }
   },
   "bars": {
-    "speed": 100,
+    "speed": 20,
     "signal": 20,
     "hide": 20,
-    "threat": 100
+    "threat": 10
   },
   "turnData": {
     "waiting": [
-      "Nana",
+      "Annie",
       "Clarissa",
+      "Nana",
       "Pearlyn",
-      "Fiona",
-      "Annie"
+      "Fiona"
     ],
     "finished": []
   },
-  "roomStatus": {
-    "Repair Engine Core": true,
-    "Synchronize Ship Systems": true,
-    "Authorize Command Protocols": true,
-    "Align Reactor Output": true,
-    "Overhaul Thruster System": true,
-    "Reroute Energy Distribution": true,
-    "Stabilize Crew Systems": true,
-    "Stabilize Power Output": true,
-    "Reinforce Mechanical Systems": true
-  },
+  "roomStatus": {},
   "metadata": {
     "totalRounds": 3,
     "totalAliens": 1
@@ -74,15 +64,15 @@
       "name": "Align Reactor Output",
       "loc": "ENGINE",
       "type": "speed",
-      "complete": true,
-      "completedBy": "Pearlyn"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Overhaul Thruster System",
       "loc": "ENGINE",
       "type": "speed",
-      "complete": true,
-      "completedBy": "Fiona"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Refuel Main Tanks",
@@ -102,15 +92,15 @@
       "name": "Stabilize Power Output",
       "loc": "POWER CORE",
       "type": "speed",
-      "complete": true,
-      "completedBy": "Annie"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Reroute Energy Distribution",
       "loc": "POWER CORE",
       "type": "speed",
-      "complete": true,
-      "completedBy": "Nana"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Stabilize Signal Power",
@@ -137,8 +127,8 @@
       "name": "Reinforce Mechanical Systems",
       "loc": "MAINTENANCE",
       "type": "speed",
-      "complete": true,
-      "completedBy": "Fiona"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Reinforce Hull Integrity",
@@ -165,8 +155,8 @@
       "name": "Authorize Command Protocols",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": true,
-      "completedBy": "Nana"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Synchronize Comm Systems",
@@ -200,8 +190,8 @@
       "name": "Stabilize Crew Systems",
       "loc": "LIFE SUPPORT",
       "type": "speed",
-      "complete": true,
-      "completedBy": "Annie"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Stabilize Internal Systems",
