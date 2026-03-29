@@ -7,7 +7,7 @@
       "petrified": false
     },
     "Clarissa": {
-      "role": "ALIEN",
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
@@ -18,13 +18,19 @@
       "status": "ALIVE",
       "petrified": false
     },
-    "Pearlyn": {
-      "role": "HUMAN",
+    "Aum": {
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "Fiona": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "Jessica": {
       "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
@@ -42,8 +48,9 @@
       "Annie",
       "Clarissa",
       "Nana",
-      "Pearlyn",
-      "Fiona"
+      "Aum",
+      "Fiona",
+      "Jessica"
     ],
     "finished": []
   },
