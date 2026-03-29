@@ -1,7 +1,7 @@
 {
   "players": {
     "Annie": {
-      "role": "HUMAN",
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
@@ -13,13 +13,13 @@
       "petrified": false
     },
     "Nana": {
-      "role": "ALIEN",
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "Aum": {
-      "role": "ALIEN",
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
@@ -57,7 +57,7 @@
   "roomStatus": {},
   "metadata": {
     "totalRounds": 3,
-    "totalAliens": 2
+    "totalAliens": 1
   },
   "tasks": [
     {
