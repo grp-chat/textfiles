@@ -4,7 +4,7 @@
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false,
-      "role": "HUMAN"
+      "role": "ALIEN"
     },
     "Clarissa": {
       "loc": "CENTRAL HUB",
@@ -34,7 +34,7 @@
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false,
-      "role": "ALIEN"
+      "role": "HUMAN"
     }
   },
   "bars": {
