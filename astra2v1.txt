@@ -19,7 +19,7 @@
       "role": "HUMAN"
     },
     "Aum": {
-      "loc": "CENTRAL HUB",
+      "loc": "DATA CORE",
       "status": "ALIVE",
       "petrified": false,
       "role": "HUMAN"
@@ -38,15 +38,20 @@
     }
   },
   "bars": {
-    "speed": 0,
-    "signal": 0,
-    "hide": 0,
-    "threat": 0
+    "speed": 10,
+    "signal": 20,
+    "hide": 10,
+    "threat": 5
   },
   "turnData": {
     "finished": []
   },
-  "roomStatus": {},
+  "roomStatus": {
+    "Initiate Emergency Broadcast": true,
+    "Synchronize Comm Systems": true,
+    "Initiate Stealth Protocol": true,
+    "Authorize Command Protocols": true
+  },
   "metadata": {
     "totalRounds": 3,
     "totalAliens": 2
@@ -154,22 +159,22 @@
       "name": "Authorize Command Protocols",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "Aum"
     },
     {
       "name": "Synchronize Comm Systems",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "Jessica"
     },
     {
       "name": "Initiate Emergency Broadcast",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "Aum"
     },
     {
       "name": "Sync Stealth Systems",
@@ -182,8 +187,8 @@
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "Fiona"
     },
     {
       "name": "Stabilize Crew Systems",
