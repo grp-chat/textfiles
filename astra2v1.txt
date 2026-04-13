@@ -1,85 +1,92 @@
 {
   "players": {
     "CRQ": {
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "YUN": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "NZQ": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "CT": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "ANT": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "HUI": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "NOV": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
-    },
-    "CHS": {
-      "loc": "CENTRAL HUB",
-      "status": "ALIVE",
-      "petrified": false,
-      "role": "ALIEN"
+      "petrified": false
     },
     "IAK": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "YZY": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "KYK": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "CUR": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     }
   },
   "bars": {
-    "speed": 0,
-    "signal": 0,
-    "hide": 0,
-    "threat": 0
+    "speed": 20,
+    "signal": 20,
+    "hide": 20,
+    "threat": 10
   },
   "turnData": {
+    "waiting": [
+      "CRQ",
+      "YUN",
+      "NZQ",
+      "CT",
+      "ANT",
+      "HUI",
+      "NOV",
+      "IAK",
+      "YZY",
+      "KYK",
+      "CUR"
+    ],
     "finished": []
   },
   "roomStatus": {},
