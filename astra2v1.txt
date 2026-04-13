@@ -1,18 +1,105 @@
 {
-  "players": {},
+  "players": {
+    "CRQ": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "YUN": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "NZQ": {
+      "role": "ALIEN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "CT": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "ANT": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "HUI": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "NOV": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "CHS": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "IAK": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "YZY": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "KYK": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "CUR": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    }
+  },
   "bars": {
-    "speed": 0,
-    "signal": 0,
-    "hide": 0,
-    "threat": 0
+    "speed": 20,
+    "signal": 20,
+    "hide": 20,
+    "threat": 10
   },
   "turnData": {
+    "waiting": [
+      "CRQ",
+      "YUN",
+      "NZQ",
+      "CT",
+      "ANT",
+      "HUI",
+      "NOV",
+      "CHS",
+      "IAK",
+      "YZY",
+      "KYK",
+      "CUR"
+    ],
     "finished": []
   },
   "roomStatus": {},
   "metadata": {
     "totalRounds": 3,
-    "totalAliens": 2
+    "totalAliens": 1
   },
   "tasks": [
     {
