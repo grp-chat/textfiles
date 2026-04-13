@@ -77,7 +77,7 @@
     "speed": 40,
     "signal": 40,
     "hide": 40,
-    "threat": 50
+    "threat": 60
   },
   "turnData": {
     "waiting": [
