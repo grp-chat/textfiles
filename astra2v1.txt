@@ -76,8 +76,8 @@
   "bars": {
     "speed": 40,
     "signal": 40,
-    "hide": 30,
-    "threat": 20
+    "hide": 40,
+    "threat": 30
   },
   "turnData": {
     "waiting": [
@@ -101,7 +101,8 @@
     "Initiate Stealth Protocol": true,
     "Synchronize Ship Systems": true,
     "Synchronize Comm Systems": true,
-    "Authorize Command Protocols": true
+    "Authorize Command Protocols": true,
+    "Sync Stealth Systems": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -232,7 +233,7 @@
       "loc": "CENTRAL HUB",
       "type": "hide",
       "complete": true,
-      "completedBy": "ANT"
+      "completedBy": "CRQ"
     },
     {
       "name": "Initiate Stealth Protocol",
