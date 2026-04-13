@@ -8,7 +8,7 @@
     },
     "YUN": {
       "role": "HUMAN",
-      "loc": "SECURITY",
+      "loc": "LIFE SUPPORT",
       "status": "ALIVE",
       "petrified": false
     },
@@ -20,7 +20,7 @@
     },
     "CT": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
@@ -32,7 +32,7 @@
     },
     "HUI": {
       "role": "HUMAN",
-      "loc": "SECURITY",
+      "loc": "POWER CORE",
       "status": "ALIVE",
       "petrified": false
     },
@@ -40,17 +40,17 @@
       "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": true
+      "petrified": false
     },
     "IAK": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
     "YZY": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
@@ -63,9 +63,9 @@
   },
   "bars": {
     "speed": 40,
-    "signal": 40,
-    "hide": 40,
-    "threat": 20
+    "signal": 50,
+    "hide": 70,
+    "threat": 30
   },
   "turnData": {
     "waiting": [
@@ -84,11 +84,15 @@
   },
   "roomStatus": {
     "Synchronize Comm Systems": true,
-    "Initiate Stealth Protocol": true,
     "Authorize Command Protocols": true,
     "Synchronize Ship Systems": true,
     "Initiate Emergency Broadcast": true,
-    "Sync Stealth Systems": true
+    "Sync Stealth Systems": true,
+    "Recalculate Trajectory": true,
+    "Plot Escape Route": true,
+    "Update Nav Coordinates": true,
+    "Identify Safe Zones": true,
+    "Minimize Power Signature": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -155,8 +159,8 @@
       "name": "Minimize Power Signature",
       "loc": "POWER CORE",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "HUI"
     },
     {
       "name": "Repair Structural Damage",
@@ -225,8 +229,8 @@
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": true,
-      "completedBy": "NZQ"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Stabilize Crew Systems",
@@ -295,22 +299,22 @@
       "name": "Update Nav Coordinates",
       "loc": "NAVIGATION",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CRQ"
     },
     {
       "name": "Plot Escape Route",
       "loc": "NAVIGATION",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "NZQ"
     },
     {
       "name": "Recalculate Trajectory",
       "loc": "NAVIGATION",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CRQ"
     },
     {
       "name": "Scan Signal Range",
@@ -337,8 +341,8 @@
       "name": "Identify Safe Zones",
       "loc": "SCANNER",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CT"
     },
     {
       "name": "Detect Alien Presence",
