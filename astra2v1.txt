@@ -1,7 +1,7 @@
 {
   "players": {
     "CRQ": {
-      "role": "ALIEN",
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
@@ -25,7 +25,7 @@
       "petrified": false
     },
     "ANT": {
-      "role": "HUMAN",
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
