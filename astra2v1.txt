@@ -76,8 +76,8 @@
   "bars": {
     "speed": 40,
     "signal": 40,
-    "hide": 40,
-    "threat": 70
+    "hide": 30,
+    "threat": 80
   },
   "turnData": {
     "waiting": [
@@ -98,7 +98,6 @@
   },
   "roomStatus": {
     "Initiate Emergency Broadcast": true,
-    "Initiate Stealth Protocol": true,
     "Synchronize Ship Systems": true,
     "Synchronize Comm Systems": true,
     "Authorize Command Protocols": true,
@@ -239,8 +238,8 @@
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": true,
-      "completedBy": "CRQ"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Stabilize Crew Systems",
