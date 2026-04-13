@@ -76,8 +76,8 @@
   "bars": {
     "speed": 40,
     "signal": 40,
-    "hide": 30,
-    "threat": 80
+    "hide": 40,
+    "threat": 90
   },
   "turnData": {
     "waiting": [
@@ -101,7 +101,8 @@
     "Synchronize Ship Systems": true,
     "Synchronize Comm Systems": true,
     "Authorize Command Protocols": true,
-    "Sync Stealth Systems": true
+    "Sync Stealth Systems": true,
+    "Initiate Stealth Protocol": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -238,8 +239,8 @@
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "ANT"
     },
     {
       "name": "Stabilize Crew Systems",
