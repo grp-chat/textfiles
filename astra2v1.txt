@@ -74,10 +74,10 @@
     }
   },
   "bars": {
-    "speed": 20,
-    "signal": 20,
-    "hide": 20,
-    "threat": 10
+    "speed": 40,
+    "signal": 40,
+    "hide": 30,
+    "threat": 20
   },
   "turnData": {
     "waiting": [
@@ -96,7 +96,13 @@
     ],
     "finished": []
   },
-  "roomStatus": {},
+  "roomStatus": {
+    "Initiate Emergency Broadcast": true,
+    "Initiate Stealth Protocol": true,
+    "Synchronize Ship Systems": true,
+    "Synchronize Comm Systems": true,
+    "Authorize Command Protocols": true
+  },
   "metadata": {
     "totalRounds": 3,
     "totalAliens": 4
@@ -205,21 +211,21 @@
       "loc": "CENTRAL HUB",
       "type": "speed",
       "complete": true,
-      "completedBy": "CT"
+      "completedBy": "CRQ"
     },
     {
       "name": "Synchronize Comm Systems",
       "loc": "CENTRAL HUB",
       "type": "signal",
       "complete": true,
-      "completedBy": "CHS"
+      "completedBy": "CRQ"
     },
     {
       "name": "Initiate Emergency Broadcast",
       "loc": "CENTRAL HUB",
       "type": "signal",
       "complete": true,
-      "completedBy": "NOV"
+      "completedBy": "CRQ"
     },
     {
       "name": "Sync Stealth Systems",
@@ -233,7 +239,7 @@
       "loc": "CENTRAL HUB",
       "type": "hide",
       "complete": true,
-      "completedBy": "HUI"
+      "completedBy": "CRQ"
     },
     {
       "name": "Stabilize Crew Systems",
