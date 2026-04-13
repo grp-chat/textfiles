@@ -1,57 +1,15 @@
 {
-  "players": {
-    "Annie": {
-      "loc": "CENTRAL HUB",
-      "status": "ALIVE",
-      "petrified": false,
-      "role": "ALIEN"
-    },
-    "Clarissa": {
-      "loc": "CENTRAL HUB",
-      "status": "ALIVE",
-      "petrified": false,
-      "role": "ALIEN"
-    },
-    "Nana": {
-      "loc": "CENTRAL HUB",
-      "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
-    },
-    "Aum": {
-      "loc": "DATA CORE",
-      "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
-    },
-    "Fiona": {
-      "loc": "CENTRAL HUB",
-      "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
-    },
-    "Jessica": {
-      "loc": "CENTRAL HUB",
-      "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
-    }
-  },
+  "players": {},
   "bars": {
-    "speed": 10,
-    "signal": 20,
-    "hide": 10,
-    "threat": 5
+    "speed": 0,
+    "signal": 0,
+    "hide": 0,
+    "threat": 0
   },
   "turnData": {
     "finished": []
   },
-  "roomStatus": {
-    "Initiate Emergency Broadcast": true,
-    "Synchronize Comm Systems": true,
-    "Initiate Stealth Protocol": true,
-    "Authorize Command Protocols": true
-  },
+  "roomStatus": {},
   "metadata": {
     "totalRounds": 3,
     "totalAliens": 2
@@ -159,22 +117,22 @@
       "name": "Authorize Command Protocols",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": true,
-      "completedBy": "Aum"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Synchronize Comm Systems",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": true,
-      "completedBy": "Jessica"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Initiate Emergency Broadcast",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": true,
-      "completedBy": "Aum"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Sync Stealth Systems",
@@ -187,8 +145,8 @@
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": true,
-      "completedBy": "Fiona"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Stabilize Crew Systems",
