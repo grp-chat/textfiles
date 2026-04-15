@@ -52,7 +52,7 @@
   {
     "id": "mo07n5wf9bxy",
     "name": "6",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "139px",
