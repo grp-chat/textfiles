@@ -3,20 +3,20 @@
     "id": "mo07n5wftjl0",
     "name": "1",
     "score": 0,
-    "color": null,
+    "color": "#ffe119",
     "pos": {
-      "left": "541px",
-      "top": "428px"
+      "left": "646px",
+      "top": "483px"
     }
   },
   {
     "id": "mo07n5wf7vzh",
     "name": "2",
-    "score": 0,
-    "color": null,
+    "score": 2,
+    "color": "#0082c8",
     "pos": {
-      "left": "300px",
-      "top": "426px"
+      "left": "647px",
+      "top": "363px"
     }
   },
   {
