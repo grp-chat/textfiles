@@ -33,10 +33,10 @@
     "id": "mo091i7cc7yd",
     "name": "4",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
-      "left": "130px",
-      "top": "287px"
+      "left": "78px",
+      "top": "155px"
     }
   },
   {
@@ -75,8 +75,8 @@
     "score": 1,
     "color": "#3cb44b",
     "pos": {
-      "left": "280px",
-      "top": "138px"
+      "left": "76px",
+      "top": "37px"
     }
   }
 ]
