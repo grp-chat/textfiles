@@ -62,8 +62,8 @@
   {
     "id": "mo07n5wfun6o",
     "name": "7",
-    "score": 0,
-    "color": null,
+    "score": 3,
+    "color": "#ffe119",
     "pos": {
       "left": "361px",
       "top": "124px"
