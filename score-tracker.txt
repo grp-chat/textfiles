@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "mo3prsceg7sf",
+    "name": "TEAM A",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mo3prscealfl",
+    "name": "TEAM B",
+    "score": 0,
+    "color": null,
+    "pos": null
+  }
+]
