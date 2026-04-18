@@ -3,14 +3,20 @@
     "id": "mo3prsceg7sf",
     "name": "TEAM A",
     "score": 0,
-    "color": null,
-    "pos": null
+    "color": "#911eb4",
+    "pos": {
+      "left": "413px",
+      "top": "121.667px"
+    }
   },
   {
     "id": "mo3prscealfl",
     "name": "TEAM B",
     "score": 0,
-    "color": null,
-    "pos": null
+    "color": "#0082c8",
+    "pos": {
+      "left": "684.333px",
+      "top": "134px"
+    }
   }
 ]
