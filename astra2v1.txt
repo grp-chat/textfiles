@@ -2,13 +2,13 @@
   "players": {
     "YUN": {
       "role": "ALIEN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
     "NZQ": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "NAVIGATION",
       "status": "ALIVE",
       "petrified": false
     },
@@ -20,7 +20,7 @@
     },
     "ANT": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "NAVIGATION",
       "status": "ALIVE",
       "petrified": false
     },
@@ -56,22 +56,22 @@
     },
     "CHS": {
       "role": "ALIEN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
     "CUR": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     }
   },
   "bars": {
-    "speed": 20,
-    "signal": 20,
-    "hide": 20,
-    "threat": 10
+    "speed": 30,
+    "signal": 30,
+    "hide": 30,
+    "threat": 20
   },
   "turnData": {
     "waiting": [
@@ -89,7 +89,11 @@
     ],
     "finished": []
   },
-  "roomStatus": {},
+  "roomStatus": {
+    "Initiate Stealth Protocol": true,
+    "Synchronize Ship Systems": true,
+    "Recalculate Flight Path": true
+  },
   "metadata": {
     "totalRounds": 3,
     "totalAliens": 4
@@ -190,8 +194,8 @@
       "name": "Synchronize Ship Systems",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "IAK"
     },
     {
       "name": "Authorize Command Protocols",
@@ -225,8 +229,8 @@
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "KYK"
     },
     {
       "name": "Stabilize Crew Systems",
@@ -288,8 +292,8 @@
       "name": "Recalculate Flight Path",
       "loc": "NAVIGATION",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "NZQ"
     },
     {
       "name": "Update Nav Coordinates",
