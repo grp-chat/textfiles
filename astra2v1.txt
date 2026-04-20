@@ -8,7 +8,7 @@
     },
     "NZQ": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "NAVIGATION",
       "status": "ALIVE",
       "petrified": false
     },
@@ -20,7 +20,7 @@
     },
     "ANT": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
@@ -44,7 +44,7 @@
     },
     "YZY": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "ENGINE",
       "status": "ALIVE",
       "petrified": false
     },
@@ -62,16 +62,16 @@
     },
     "CUR": {
       "role": "ALIEN",
-      "loc": "CENTRAL HUB",
+      "loc": "SECURITY",
       "status": "ALIVE",
       "petrified": false
     }
   },
   "bars": {
-    "speed": 20,
-    "signal": 20,
-    "hide": 20,
-    "threat": 10
+    "speed": 40,
+    "signal": 40,
+    "hide": 40,
+    "threat": 20
   },
   "turnData": {
     "waiting": [
@@ -89,7 +89,14 @@
     ],
     "finished": []
   },
-  "roomStatus": {},
+  "roomStatus": {
+    "Sync Stealth Systems": true,
+    "Synchronize Ship Systems": true,
+    "Authorize Command Protocols": true,
+    "Initiate Stealth Protocol": true,
+    "Synchronize Comm Systems": true,
+    "Initiate Emergency Broadcast": true
+  },
   "metadata": {
     "totalRounds": 3,
     "totalAliens": 3
@@ -190,43 +197,43 @@
       "name": "Synchronize Ship Systems",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "YUN"
     },
     {
       "name": "Authorize Command Protocols",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "HUI"
     },
     {
       "name": "Synchronize Comm Systems",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "KYK"
     },
     {
       "name": "Initiate Emergency Broadcast",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CT"
     },
     {
       "name": "Sync Stealth Systems",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CT"
     },
     {
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CHS"
     },
     {
       "name": "Stabilize Crew Systems",
