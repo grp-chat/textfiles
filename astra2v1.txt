@@ -14,7 +14,7 @@
     },
     "CT": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "DATA CORE",
       "status": "ALIVE",
       "petrified": false
     },
@@ -26,7 +26,7 @@
     },
     "HUI": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "COMMS",
       "status": "ALIVE",
       "petrified": false
     },
@@ -56,22 +56,22 @@
     },
     "CHS": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
     "CUR": {
       "role": "ALIEN",
-      "loc": "SECURITY",
+      "loc": "ENGINE",
       "status": "ALIVE",
       "petrified": false
     }
   },
   "bars": {
     "speed": 40,
-    "signal": 40,
+    "signal": 60,
     "hide": 40,
-    "threat": 20
+    "threat": 30
   },
   "turnData": {
     "waiting": [
@@ -90,12 +90,14 @@
     "finished": []
   },
   "roomStatus": {
-    "Sync Stealth Systems": true,
     "Synchronize Ship Systems": true,
     "Authorize Command Protocols": true,
     "Initiate Stealth Protocol": true,
     "Synchronize Comm Systems": true,
-    "Initiate Emergency Broadcast": true
+    "Initiate Emergency Broadcast": true,
+    "Recalculate Flight Path": true,
+    "Scan Signal Range": true,
+    "Sync Stealth Systems": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -226,7 +228,7 @@
       "loc": "CENTRAL HUB",
       "type": "hide",
       "complete": true,
-      "completedBy": "CT"
+      "completedBy": "YUN"
     },
     {
       "name": "Initiate Stealth Protocol",
@@ -295,8 +297,8 @@
       "name": "Recalculate Flight Path",
       "loc": "NAVIGATION",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "NZQ"
     },
     {
       "name": "Update Nav Coordinates",
@@ -323,8 +325,8 @@
       "name": "Scan Signal Range",
       "loc": "SCANNER",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "ANT"
     },
     {
       "name": "Lock Transmission Target",
