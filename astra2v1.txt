@@ -2,7 +2,7 @@
   "players": {
     "YUN": {
       "role": "ALIEN",
-      "loc": "SCANNER",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
@@ -38,7 +38,7 @@
     },
     "IAK": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "NAVIGATION",
       "status": "ALIVE",
       "petrified": false
     },
@@ -68,7 +68,7 @@
     }
   },
   "bars": {
-    "speed": 30,
+    "speed": 40,
     "signal": 30,
     "hide": 30,
     "threat": 20
@@ -87,12 +87,19 @@
       "CHS",
       "CUR"
     ],
-    "finished": []
+    "finished": [
+      "KYK",
+      "YZY",
+      "IAK",
+      "YUN",
+      "CT"
+    ]
   },
   "roomStatus": {
-    "Initiate Stealth Protocol": true,
     "Synchronize Ship Systems": true,
-    "Recalculate Flight Path": true
+    "Recalculate Flight Path": true,
+    "Sync Stealth Systems": true,
+    "Authorize Command Protocols": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -201,8 +208,8 @@
       "name": "Authorize Command Protocols",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "YZY"
     },
     {
       "name": "Synchronize Comm Systems",
@@ -222,15 +229,15 @@
       "name": "Sync Stealth Systems",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "KYK"
     },
     {
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": true,
-      "completedBy": "KYK"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Stabilize Crew Systems",
