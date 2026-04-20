@@ -37,7 +37,7 @@
       "petrified": false
     },
     "IAK": {
-      "role": "HUMAN",
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
@@ -61,7 +61,7 @@
       "petrified": false
     },
     "CUR": {
-      "role": "HUMAN",
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
@@ -92,7 +92,7 @@
   "roomStatus": {},
   "metadata": {
     "totalRounds": 3,
-    "totalAliens": 1
+    "totalAliens": 3
   },
   "tasks": [
     {
