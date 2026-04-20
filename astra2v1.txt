@@ -63,7 +63,7 @@
   },
   "bars": {
     "speed": 40,
-    "signal": 50,
+    "signal": 60,
     "hide": 70,
     "threat": 30
   },
@@ -80,7 +80,9 @@
       "YZY",
       "KYK"
     ],
-    "finished": []
+    "finished": [
+      "CRQ"
+    ]
   },
   "roomStatus": {
     "Synchronize Comm Systems": true,
@@ -92,7 +94,8 @@
     "Plot Escape Route": true,
     "Update Nav Coordinates": true,
     "Identify Safe Zones": true,
-    "Minimize Power Signature": true
+    "Minimize Power Signature": true,
+    "Recalculate Flight Path": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -292,8 +295,8 @@
       "name": "Recalculate Flight Path",
       "loc": "NAVIGATION",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CRQ"
     },
     {
       "name": "Update Nav Coordinates",
