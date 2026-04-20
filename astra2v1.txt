@@ -1,105 +1,76 @@
 {
   "players": {
     "CRQ": {
-      "role": "HUMAN",
-      "loc": "NAVIGATION",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     },
     "YUN": {
-      "role": "HUMAN",
-      "loc": "LIFE SUPPORT",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     },
     "NZQ": {
-      "role": "HUMAN",
-      "loc": "NAVIGATION",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     },
     "CT": {
-      "role": "HUMAN",
-      "loc": "SCANNER",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     },
     "ANT": {
-      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     },
     "HUI": {
-      "role": "HUMAN",
-      "loc": "POWER CORE",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     },
     "NOV": {
-      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     },
     "IAK": {
-      "role": "HUMAN",
-      "loc": "SCANNER",
-      "status": "ALIVE",
-      "petrified": false
-    },
-    "YZY": {
-      "role": "HUMAN",
-      "loc": "SCANNER",
-      "status": "ALIVE",
-      "petrified": false
-    },
-    "KYK": {
-      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
+    },
+    "YZY": {
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false,
+      "role": "ALIEN"
+    },
+    "KYK": {
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false,
+      "role": "HUMAN"
     }
   },
   "bars": {
-    "speed": 40,
-    "signal": 60,
-    "hide": 80,
-    "threat": 30
+    "speed": 0,
+    "signal": 0,
+    "hide": 0,
+    "threat": 0
   },
   "turnData": {
-    "waiting": [
-      "CRQ",
-      "YUN",
-      "NZQ",
-      "CT",
-      "ANT",
-      "HUI",
-      "NOV",
-      "IAK",
-      "YZY",
-      "KYK"
-    ],
-    "finished": [
-      "CRQ",
-      "CRQ",
-      "IAK"
-    ]
+    "finished": []
   },
-  "roomStatus": {
-    "Synchronize Comm Systems": true,
-    "Authorize Command Protocols": true,
-    "Synchronize Ship Systems": true,
-    "Initiate Emergency Broadcast": true,
-    "Sync Stealth Systems": true,
-    "Recalculate Trajectory": true,
-    "Plot Escape Route": true,
-    "Update Nav Coordinates": true,
-    "Identify Safe Zones": true,
-    "Minimize Power Signature": true,
-    "Recalculate Flight Path": true,
-    "Scan Surrounding Space": true
-  },
+  "roomStatus": {},
   "metadata": {
     "totalRounds": 3,
     "totalAliens": 1
@@ -165,8 +136,8 @@
       "name": "Minimize Power Signature",
       "loc": "POWER CORE",
       "type": "hide",
-      "complete": true,
-      "completedBy": "HUI"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Repair Structural Damage",
@@ -200,36 +171,36 @@
       "name": "Synchronize Ship Systems",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": true,
-      "completedBy": "KYK"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Authorize Command Protocols",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": true,
-      "completedBy": "NOV"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Synchronize Comm Systems",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": true,
-      "completedBy": "CT"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Initiate Emergency Broadcast",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": true,
-      "completedBy": "IAK"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Sync Stealth Systems",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": true,
-      "completedBy": "YZY"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Initiate Stealth Protocol",
@@ -298,29 +269,29 @@
       "name": "Recalculate Flight Path",
       "loc": "NAVIGATION",
       "type": "signal",
-      "complete": true,
-      "completedBy": "CRQ"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Update Nav Coordinates",
       "loc": "NAVIGATION",
       "type": "signal",
-      "complete": true,
-      "completedBy": "CRQ"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Plot Escape Route",
       "loc": "NAVIGATION",
       "type": "hide",
-      "complete": true,
-      "completedBy": "NZQ"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Recalculate Trajectory",
       "loc": "NAVIGATION",
       "type": "hide",
-      "complete": true,
-      "completedBy": "CRQ"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Scan Signal Range",
@@ -340,15 +311,15 @@
       "name": "Scan Surrounding Space",
       "loc": "SCANNER",
       "type": "hide",
-      "complete": true,
-      "completedBy": "IAK"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Identify Safe Zones",
       "loc": "SCANNER",
       "type": "hide",
-      "complete": true,
-      "completedBy": "CT"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Detect Alien Presence",
