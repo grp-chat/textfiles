@@ -64,7 +64,7 @@
   "bars": {
     "speed": 40,
     "signal": 60,
-    "hide": 70,
+    "hide": 80,
     "threat": 30
   },
   "turnData": {
@@ -81,7 +81,9 @@
       "KYK"
     ],
     "finished": [
-      "CRQ"
+      "CRQ",
+      "CRQ",
+      "IAK"
     ]
   },
   "roomStatus": {
@@ -95,7 +97,8 @@
     "Update Nav Coordinates": true,
     "Identify Safe Zones": true,
     "Minimize Power Signature": true,
-    "Recalculate Flight Path": true
+    "Recalculate Flight Path": true,
+    "Scan Surrounding Space": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -337,8 +340,8 @@
       "name": "Scan Surrounding Space",
       "loc": "SCANNER",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "IAK"
     },
     {
       "name": "Identify Safe Zones",
