@@ -1,85 +1,98 @@
 {
   "players": {
     "YUN": {
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "NZQ": {
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "ALIEN"
+      "petrified": false
     },
     "CT": {
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "ANT": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "HUI": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "NOV": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "IAK": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "YZY": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "ALIEN"
+      "petrified": false
     },
     "KYK": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "CHS": {
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "HUMAN"
+      "petrified": false
     },
     "CUR": {
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false,
-      "role": "ALIEN"
+      "petrified": false
     }
   },
   "bars": {
-    "speed": 0,
-    "signal": 0,
-    "hide": 0,
-    "threat": 0
+    "speed": 20,
+    "signal": 20,
+    "hide": 20,
+    "threat": 10
   },
   "turnData": {
+    "waiting": [
+      "YUN",
+      "NZQ",
+      "CT",
+      "ANT",
+      "HUI",
+      "NOV",
+      "IAK",
+      "YZY",
+      "KYK",
+      "CHS",
+      "CUR"
+    ],
     "finished": []
   },
   "roomStatus": {},
   "metadata": {
     "totalRounds": 3,
-    "totalAliens": 3
+    "totalAliens": 4
   },
   "tasks": [
     {
