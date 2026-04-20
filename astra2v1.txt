@@ -31,7 +31,7 @@
       "petrified": false
     },
     "NOV": {
-      "role": "HUMAN",
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
@@ -49,7 +49,7 @@
       "petrified": false
     },
     "KYK": {
-      "role": "ALIEN",
+      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
