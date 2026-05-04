@@ -7,7 +7,7 @@
       "petrified": false
     },
     "NZQ": {
-      "role": "HUMAN",
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
@@ -25,7 +25,7 @@
       "petrified": false
     },
     "NOV": {
-      "role": "HUMAN",
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
@@ -37,7 +37,7 @@
       "petrified": false
     },
     "YZY": {
-      "role": "HUMAN",
+      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
@@ -85,7 +85,7 @@
   "roomStatus": {},
   "metadata": {
     "totalRounds": 3,
-    "totalAliens": 1
+    "totalAliens": 4
   },
   "tasks": [
     {
