@@ -2,7 +2,7 @@
   "players": {
     "YUN": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "COMMS",
       "status": "ALIVE",
       "petrified": false
     },
@@ -14,7 +14,7 @@
     },
     "CT": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
@@ -44,7 +44,7 @@
     },
     "KYK": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "SECURITY",
       "status": "ALIVE",
       "petrified": false
     },
@@ -52,7 +52,7 @@
       "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": true
     },
     "CRQ": {
       "role": "ALIEN",
@@ -62,10 +62,10 @@
     }
   },
   "bars": {
-    "speed": 30,
-    "signal": 40,
+    "speed": 40,
+    "signal": 50,
     "hide": 30,
-    "threat": 30
+    "threat": 40
   },
   "turnData": {
     "waiting": [
@@ -84,9 +84,11 @@
   },
   "roomStatus": {
     "Synchronize Ship Systems": true,
-    "Initiate Emergency Broadcast": true,
+    "Synchronize Comm Systems": true,
+    "Authorize Command Protocols": true,
+    "Decrypt Signal Protocols": true,
     "Initiate Stealth Protocol": true,
-    "Synchronize Comm Systems": true
+    "Boost Signal Frequency": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -195,8 +197,8 @@
       "name": "Authorize Command Protocols",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CHS"
     },
     {
       "name": "Synchronize Comm Systems",
@@ -209,8 +211,8 @@
       "name": "Initiate Emergency Broadcast",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": true,
-      "completedBy": "CHS"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Sync Stealth Systems",
@@ -224,7 +226,7 @@
       "loc": "CENTRAL HUB",
       "type": "hide",
       "complete": true,
-      "completedBy": "CT"
+      "completedBy": "IAK"
     },
     {
       "name": "Stabilize Crew Systems",
@@ -265,8 +267,8 @@
       "name": "Boost Signal Frequency",
       "loc": "COMMS",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "YUN"
     },
     {
       "name": "Restore Data Systems",
@@ -279,8 +281,8 @@
       "name": "Decrypt Signal Protocols",
       "loc": "DATA CORE",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "ANT"
     },
     {
       "name": "Recalculate Flight Path",
