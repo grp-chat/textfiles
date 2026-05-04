@@ -2,7 +2,7 @@
   "players": {
     "YUN": {
       "role": "HUMAN",
-      "loc": "COMMS",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
@@ -20,7 +20,7 @@
     },
     "ANT": {
       "role": "HUMAN",
-      "loc": "DATA CORE",
+      "loc": "SECURITY",
       "status": "ALIVE",
       "petrified": false
     },
@@ -44,13 +44,13 @@
     },
     "KYK": {
       "role": "HUMAN",
-      "loc": "SECURITY",
+      "loc": "POWER CORE",
       "status": "ALIVE",
       "petrified": false
     },
     "CHS": {
       "role": "HUMAN",
-      "loc": "SECURITY",
+      "loc": "POWER CORE",
       "status": "ALIVE",
       "petrified": false
     },
@@ -63,9 +63,9 @@
   },
   "bars": {
     "speed": 40,
-    "signal": 90,
+    "signal": 80,
     "hide": 40,
-    "threat": 50
+    "threat": 60
   },
   "turnData": {
     "waiting": [
@@ -84,16 +84,15 @@
   },
   "roomStatus": {
     "Synchronize Ship Systems": true,
-    "Synchronize Comm Systems": true,
     "Authorize Command Protocols": true,
     "Decrypt Signal Protocols": true,
     "Initiate Stealth Protocol": true,
     "Boost Signal Frequency": true,
-    "Scan Signal Range": true,
     "Repair Comm Array": true,
     "Restore Data Systems": true,
     "Sync Stealth Systems": true,
-    "Amplify Signal Trans": true
+    "Amplify Signal Trans": true,
+    "Lock Transmission Target": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -209,8 +208,8 @@
       "name": "Synchronize Comm Systems",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": true,
-      "completedBy": "KYK"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Initiate Emergency Broadcast",
@@ -321,15 +320,15 @@
       "name": "Scan Signal Range",
       "loc": "SCANNER",
       "type": "signal",
-      "complete": true,
-      "completedBy": "CT"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Lock Transmission Target",
       "loc": "SCANNER",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CT"
     },
     {
       "name": "Scan Surrounding Space",
