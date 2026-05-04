@@ -8,7 +8,7 @@
     },
     "NZQ": {
       "role": "ALIEN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
@@ -50,22 +50,22 @@
     },
     "CHS": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "SECURITY",
       "status": "ALIVE",
-      "petrified": true
+      "petrified": false
     },
     "CRQ": {
       "role": "ALIEN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     }
   },
   "bars": {
     "speed": 40,
-    "signal": 50,
-    "hide": 30,
-    "threat": 40
+    "signal": 90,
+    "hide": 40,
+    "threat": 50
   },
   "turnData": {
     "waiting": [
@@ -88,7 +88,12 @@
     "Authorize Command Protocols": true,
     "Decrypt Signal Protocols": true,
     "Initiate Stealth Protocol": true,
-    "Boost Signal Frequency": true
+    "Boost Signal Frequency": true,
+    "Scan Signal Range": true,
+    "Repair Comm Array": true,
+    "Restore Data Systems": true,
+    "Sync Stealth Systems": true,
+    "Amplify Signal Trans": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -218,8 +223,8 @@
       "name": "Sync Stealth Systems",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "IAK"
     },
     {
       "name": "Initiate Stealth Protocol",
@@ -253,15 +258,15 @@
       "name": "Repair Comm Array",
       "loc": "COMMS",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "YUN"
     },
     {
       "name": "Amplify Signal Trans",
       "loc": "COMMS",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "YUN"
     },
     {
       "name": "Boost Signal Frequency",
@@ -274,8 +279,8 @@
       "name": "Restore Data Systems",
       "loc": "DATA CORE",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "ANT"
     },
     {
       "name": "Decrypt Signal Protocols",
@@ -316,8 +321,8 @@
       "name": "Scan Signal Range",
       "loc": "SCANNER",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CT"
     },
     {
       "name": "Lock Transmission Target",
