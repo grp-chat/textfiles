@@ -22,7 +22,7 @@
       "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": true
     },
     "NOV": {
       "role": "ALIEN",
@@ -62,10 +62,10 @@
     }
   },
   "bars": {
-    "speed": 20,
-    "signal": 20,
-    "hide": 20,
-    "threat": 10
+    "speed": 30,
+    "signal": 40,
+    "hide": 40,
+    "threat": 20
   },
   "turnData": {
     "waiting": [
@@ -82,7 +82,13 @@
     ],
     "finished": []
   },
-  "roomStatus": {},
+  "roomStatus": {
+    "Initiate Stealth Protocol": true,
+    "Synchronize Comm Systems": true,
+    "Sync Stealth Systems": true,
+    "Synchronize Ship Systems": true,
+    "Initiate Emergency Broadcast": true
+  },
   "metadata": {
     "totalRounds": 3,
     "totalAliens": 4
@@ -183,8 +189,8 @@
       "name": "Synchronize Ship Systems",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "KYK"
     },
     {
       "name": "Authorize Command Protocols",
@@ -197,29 +203,29 @@
       "name": "Synchronize Comm Systems",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CT"
     },
     {
       "name": "Initiate Emergency Broadcast",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CT"
     },
     {
       "name": "Sync Stealth Systems",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "CHS"
     },
     {
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "YUN"
     },
     {
       "name": "Stabilize Crew Systems",
