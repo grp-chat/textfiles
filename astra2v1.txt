@@ -14,7 +14,7 @@
     },
     "CT": {
       "role": "ALIEN",
-      "loc": "NAVIGATION",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
@@ -62,10 +62,10 @@
     }
   },
   "bars": {
-    "speed": 60,
+    "speed": 70,
     "signal": 50,
     "hide": 20,
-    "threat": 70
+    "threat": 80
   },
   "turnData": {
     "waiting": [
@@ -89,7 +89,8 @@
     "Boost Signal Frequency": true,
     "Align Reactor Output": true,
     "Authorize Command Protocols": true,
-    "Overhaul Thruster System": true
+    "Overhaul Thruster System": true,
+    "Synchronize Ship Systems": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -191,8 +192,8 @@
       "name": "Synchronize Ship Systems",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "HUI"
     },
     {
       "name": "Authorize Command Protocols",
