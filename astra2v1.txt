@@ -8,7 +8,7 @@
     },
     "NZQ": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "ENGINE",
       "status": "ALIVE",
       "petrified": false
     },
@@ -62,10 +62,10 @@
     }
   },
   "bars": {
-    "speed": 20,
-    "signal": 20,
-    "hide": 30,
-    "threat": 20
+    "speed": 30,
+    "signal": 30,
+    "hide": 20,
+    "threat": 30
   },
   "turnData": {
     "waiting": [
@@ -83,7 +83,8 @@
     "finished": []
   },
   "roomStatus": {
-    "Initiate Stealth Protocol": true
+    "Synchronize Ship Systems": true,
+    "Amplify Signal Trans": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -185,8 +186,8 @@
       "name": "Synchronize Ship Systems",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "YZY"
     },
     {
       "name": "Authorize Command Protocols",
@@ -220,8 +221,8 @@
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": true,
-      "completedBy": "KYK"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Stabilize Crew Systems",
@@ -255,8 +256,8 @@
       "name": "Amplify Signal Trans",
       "loc": "COMMS",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "YUN"
     },
     {
       "name": "Boost Signal Frequency",
