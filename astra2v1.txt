@@ -20,7 +20,7 @@
     },
     "ANT": {
       "role": "HUMAN",
-      "loc": "ENGINE",
+      "loc": "FUEL CONTROL",
       "status": "ALIVE",
       "petrified": false
     },
@@ -63,9 +63,9 @@
   },
   "bars": {
     "speed": 70,
-    "signal": 50,
+    "signal": 60,
     "hide": 20,
-    "threat": 80
+    "threat": 90
   },
   "turnData": {
     "waiting": [
@@ -88,9 +88,10 @@
     "Repair Engine Core": true,
     "Boost Signal Frequency": true,
     "Align Reactor Output": true,
-    "Authorize Command Protocols": true,
     "Overhaul Thruster System": true,
-    "Synchronize Ship Systems": true
+    "Synchronize Ship Systems": true,
+    "Synchronize Comm Systems": true,
+    "Refuel Main Tanks": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -122,8 +123,8 @@
       "name": "Refuel Main Tanks",
       "loc": "FUEL CONTROL",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "NZQ"
     },
     {
       "name": "Stabilize Fuel Flow",
@@ -199,15 +200,15 @@
       "name": "Authorize Command Protocols",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": true,
-      "completedBy": "YZY"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Synchronize Comm Systems",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "HUI"
     },
     {
       "name": "Initiate Emergency Broadcast",
