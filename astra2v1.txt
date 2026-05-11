@@ -65,7 +65,7 @@
     "speed": 30,
     "signal": 50,
     "hide": 20,
-    "threat": 40
+    "threat": 50
   },
   "turnData": {
     "waiting": [
@@ -85,8 +85,8 @@
   "roomStatus": {
     "Amplify Signal Trans": true,
     "Repair Comm Array": true,
-    "Synchronize Ship Systems": true,
-    "Initiate Emergency Broadcast": true
+    "Repair Engine Core": true,
+    "Boost Signal Frequency": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -97,8 +97,8 @@
       "name": "Repair Engine Core",
       "loc": "ENGINE",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "NZQ"
     },
     {
       "name": "Align Reactor Output",
@@ -188,8 +188,8 @@
       "name": "Synchronize Ship Systems",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": true,
-      "completedBy": "KYK"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Authorize Command Protocols",
@@ -209,8 +209,8 @@
       "name": "Initiate Emergency Broadcast",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": true,
-      "completedBy": "YZY"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Sync Stealth Systems",
@@ -265,8 +265,8 @@
       "name": "Boost Signal Frequency",
       "loc": "COMMS",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "YUN"
     },
     {
       "name": "Restore Data Systems",
