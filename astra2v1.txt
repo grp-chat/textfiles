@@ -1,85 +1,73 @@
 {
   "players": {
     "YUN": {
-      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     },
     "NZQ": {
-      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     },
     "CT": {
-      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "ALIEN"
     },
     "ANT": {
-      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "ALIEN"
     },
     "NOV": {
-      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "ALIEN"
     },
     "YZY": {
-      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     },
     "KYK": {
-      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     },
     "CHS": {
-      "role": "ALIEN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "ALIEN"
     },
     "CRQ": {
-      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     },
     "HUI": {
-      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
-      "petrified": false
+      "petrified": false,
+      "role": "HUMAN"
     }
   },
   "bars": {
-    "speed": 20,
-    "signal": 20,
-    "hide": 20,
-    "threat": 10
+    "speed": 0,
+    "signal": 0,
+    "hide": 0,
+    "threat": 0
   },
   "turnData": {
-    "waiting": [
-      "YUN",
-      "NZQ",
-      "CT",
-      "ANT",
-      "NOV",
-      "YZY",
-      "KYK",
-      "CHS",
-      "CRQ",
-      "HUI"
-    ],
     "finished": []
   },
   "roomStatus": {},
