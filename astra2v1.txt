@@ -2,19 +2,19 @@
   "players": {
     "YUN": {
       "role": "HUMAN",
-      "loc": "COMMS",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
     "NZQ": {
       "role": "HUMAN",
-      "loc": "ENGINE",
+      "loc": "FUEL CONTROL",
       "status": "ALIVE",
       "petrified": false
     },
     "CT": {
       "role": "ALIEN",
-      "loc": "CENTRAL HUB",
+      "loc": "NAVIGATION",
       "status": "ALIVE",
       "petrified": false
     },
@@ -26,7 +26,7 @@
     },
     "NOV": {
       "role": "ALIEN",
-      "loc": "ENGINE",
+      "loc": "FUEL CONTROL",
       "status": "ALIVE",
       "petrified": false
     },
@@ -50,7 +50,7 @@
     },
     "CRQ": {
       "role": "ALIEN",
-      "loc": "CENTRAL HUB",
+      "loc": "SCANNER",
       "status": "ALIVE",
       "petrified": false
     },
@@ -62,10 +62,10 @@
     }
   },
   "bars": {
-    "speed": 30,
+    "speed": 40,
     "signal": 50,
     "hide": 20,
-    "threat": 50
+    "threat": 60
   },
   "turnData": {
     "waiting": [
@@ -86,7 +86,8 @@
     "Amplify Signal Trans": true,
     "Repair Comm Array": true,
     "Repair Engine Core": true,
-    "Boost Signal Frequency": true
+    "Boost Signal Frequency": true,
+    "Align Reactor Output": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -104,8 +105,8 @@
       "name": "Align Reactor Output",
       "loc": "ENGINE",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "ANT"
     },
     {
       "name": "Overhaul Thruster System",
