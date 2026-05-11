@@ -20,13 +20,13 @@
     },
     "ANT": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "ENGINE",
       "status": "ALIVE",
       "petrified": false
     },
     "NOV": {
       "role": "ALIEN",
-      "loc": "CENTRAL HUB",
+      "loc": "ENGINE",
       "status": "ALIVE",
       "petrified": false
     },
@@ -63,9 +63,9 @@
   },
   "bars": {
     "speed": 30,
-    "signal": 30,
+    "signal": 50,
     "hide": 20,
-    "threat": 30
+    "threat": 40
   },
   "turnData": {
     "waiting": [
@@ -83,8 +83,10 @@
     "finished": []
   },
   "roomStatus": {
+    "Amplify Signal Trans": true,
+    "Repair Comm Array": true,
     "Synchronize Ship Systems": true,
-    "Amplify Signal Trans": true
+    "Initiate Emergency Broadcast": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -187,7 +189,7 @@
       "loc": "CENTRAL HUB",
       "type": "speed",
       "complete": true,
-      "completedBy": "YZY"
+      "completedBy": "KYK"
     },
     {
       "name": "Authorize Command Protocols",
@@ -207,8 +209,8 @@
       "name": "Initiate Emergency Broadcast",
       "loc": "CENTRAL HUB",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "YZY"
     },
     {
       "name": "Sync Stealth Systems",
@@ -249,8 +251,8 @@
       "name": "Repair Comm Array",
       "loc": "COMMS",
       "type": "signal",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "YUN"
     },
     {
       "name": "Amplify Signal Trans",
