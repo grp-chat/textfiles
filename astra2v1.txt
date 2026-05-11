@@ -65,7 +65,7 @@
     "speed": 70,
     "signal": 60,
     "hide": 20,
-    "threat": 90
+    "threat": 100
   },
   "turnData": {
     "waiting": [
@@ -89,9 +89,9 @@
     "Boost Signal Frequency": true,
     "Align Reactor Output": true,
     "Overhaul Thruster System": true,
-    "Synchronize Ship Systems": true,
     "Synchronize Comm Systems": true,
-    "Refuel Main Tanks": true
+    "Synchronize Ship Systems": true,
+    "Authorize Command Protocols": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -123,8 +123,8 @@
       "name": "Refuel Main Tanks",
       "loc": "FUEL CONTROL",
       "type": "speed",
-      "complete": true,
-      "completedBy": "NZQ"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Stabilize Fuel Flow",
@@ -194,14 +194,14 @@
       "loc": "CENTRAL HUB",
       "type": "speed",
       "complete": true,
-      "completedBy": "HUI"
+      "completedBy": "YZY"
     },
     {
       "name": "Authorize Command Protocols",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "KYK"
     },
     {
       "name": "Synchronize Comm Systems",
