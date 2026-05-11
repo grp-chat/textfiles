@@ -2,36 +2,30 @@
   "players": {
     "YUN": {
       "role": "HUMAN",
-      "loc": "SCANNER",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "NZQ": {
       "role": "ALIEN",
-      "loc": "SCANNER",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "CT": {
       "role": "HUMAN",
-      "loc": "SCANNER",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "ANT": {
       "role": "HUMAN",
-      "loc": "SECURITY",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "NOV": {
       "role": "ALIEN",
-      "loc": "CENTRAL HUB",
-      "status": "ALIVE",
-      "petrified": false
-    },
-    "IAK": {
-      "role": "HUMAN",
       "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
@@ -44,28 +38,34 @@
     },
     "KYK": {
       "role": "HUMAN",
-      "loc": "POWER CORE",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "CHS": {
-      "role": "HUMAN",
-      "loc": "POWER CORE",
+      "role": "ALIEN",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     },
     "CRQ": {
-      "role": "ALIEN",
-      "loc": "SCANNER",
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
+      "status": "ALIVE",
+      "petrified": false
+    },
+    "HUI": {
+      "role": "HUMAN",
+      "loc": "CENTRAL HUB",
       "status": "ALIVE",
       "petrified": false
     }
   },
   "bars": {
-    "speed": 40,
-    "signal": 80,
-    "hide": 40,
-    "threat": 90
+    "speed": 20,
+    "signal": 20,
+    "hide": 20,
+    "threat": 10
   },
   "turnData": {
     "waiting": [
@@ -74,26 +74,15 @@
       "CT",
       "ANT",
       "NOV",
-      "IAK",
       "YZY",
       "KYK",
       "CHS",
-      "CRQ"
+      "CRQ",
+      "HUI"
     ],
     "finished": []
   },
-  "roomStatus": {
-    "Synchronize Ship Systems": true,
-    "Authorize Command Protocols": true,
-    "Decrypt Signal Protocols": true,
-    "Initiate Stealth Protocol": true,
-    "Boost Signal Frequency": true,
-    "Repair Comm Array": true,
-    "Restore Data Systems": true,
-    "Sync Stealth Systems": true,
-    "Amplify Signal Trans": true,
-    "Lock Transmission Target": true
-  },
+  "roomStatus": {},
   "metadata": {
     "totalRounds": 3,
     "totalAliens": 4
@@ -194,15 +183,15 @@
       "name": "Synchronize Ship Systems",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": true,
-      "completedBy": "KYK"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Authorize Command Protocols",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": true,
-      "completedBy": "CHS"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Synchronize Comm Systems",
@@ -222,15 +211,15 @@
       "name": "Sync Stealth Systems",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": true,
-      "completedBy": "IAK"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": true,
-      "completedBy": "IAK"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Stabilize Crew Systems",
@@ -257,36 +246,36 @@
       "name": "Repair Comm Array",
       "loc": "COMMS",
       "type": "signal",
-      "complete": true,
-      "completedBy": "YUN"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Amplify Signal Trans",
       "loc": "COMMS",
       "type": "signal",
-      "complete": true,
-      "completedBy": "YUN"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Boost Signal Frequency",
       "loc": "COMMS",
       "type": "signal",
-      "complete": true,
-      "completedBy": "YUN"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Restore Data Systems",
       "loc": "DATA CORE",
       "type": "signal",
-      "complete": true,
-      "completedBy": "ANT"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Decrypt Signal Protocols",
       "loc": "DATA CORE",
       "type": "signal",
-      "complete": true,
-      "completedBy": "ANT"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Recalculate Flight Path",
@@ -327,8 +316,8 @@
       "name": "Lock Transmission Target",
       "loc": "SCANNER",
       "type": "signal",
-      "complete": true,
-      "completedBy": "CT"
+      "complete": false,
+      "completedBy": ""
     },
     {
       "name": "Scan Surrounding Space",
