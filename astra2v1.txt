@@ -2,7 +2,7 @@
   "players": {
     "YUN": {
       "role": "HUMAN",
-      "loc": "CENTRAL HUB",
+      "loc": "COMMS",
       "status": "ALIVE",
       "petrified": false
     },
@@ -64,8 +64,8 @@
   "bars": {
     "speed": 20,
     "signal": 20,
-    "hide": 20,
-    "threat": 10
+    "hide": 30,
+    "threat": 20
   },
   "turnData": {
     "waiting": [
@@ -82,7 +82,9 @@
     ],
     "finished": []
   },
-  "roomStatus": {},
+  "roomStatus": {
+    "Initiate Stealth Protocol": true
+  },
   "metadata": {
     "totalRounds": 3,
     "totalAliens": 4
@@ -218,8 +220,8 @@
       "name": "Initiate Stealth Protocol",
       "loc": "CENTRAL HUB",
       "type": "hide",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "KYK"
     },
     {
       "name": "Stabilize Crew Systems",
