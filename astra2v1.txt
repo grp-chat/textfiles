@@ -62,10 +62,10 @@
     }
   },
   "bars": {
-    "speed": 40,
+    "speed": 60,
     "signal": 50,
     "hide": 20,
-    "threat": 60
+    "threat": 70
   },
   "turnData": {
     "waiting": [
@@ -87,7 +87,9 @@
     "Repair Comm Array": true,
     "Repair Engine Core": true,
     "Boost Signal Frequency": true,
-    "Align Reactor Output": true
+    "Align Reactor Output": true,
+    "Authorize Command Protocols": true,
+    "Overhaul Thruster System": true
   },
   "metadata": {
     "totalRounds": 3,
@@ -112,8 +114,8 @@
       "name": "Overhaul Thruster System",
       "loc": "ENGINE",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "ANT"
     },
     {
       "name": "Refuel Main Tanks",
@@ -196,8 +198,8 @@
       "name": "Authorize Command Protocols",
       "loc": "CENTRAL HUB",
       "type": "speed",
-      "complete": false,
-      "completedBy": ""
+      "complete": true,
+      "completedBy": "YZY"
     },
     {
       "name": "Synchronize Comm Systems",
