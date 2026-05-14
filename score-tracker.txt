@@ -12,7 +12,7 @@
   {
     "id": "mp54ckepauz4",
     "name": "CAY",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "379.499px",
