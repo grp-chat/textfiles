@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "id": "mp54ckepk3j6",
+    "name": "FGM",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp54ckepauz4",
+    "name": "CAY",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp54ckep91o9",
+    "name": "MIK",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp54ckepi1hr",
+    "name": "LOU",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp54ckepa2e7",
+    "name": "MAR",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp54ckephgxn",
+    "name": "YEQ",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp54ckepgvys",
+    "name": "JPH",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp54ckepypt0",
+    "name": "HAY",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp54ckepyi71",
+    "name": "JOE",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp54ckep2d9b",
+    "name": "CJH",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp54ckepgk9s",
+    "name": "OLI",
+    "score": 0,
+    "color": null,
+    "pos": null
+  }
+]
