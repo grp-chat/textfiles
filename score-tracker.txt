@@ -3,7 +3,7 @@
     "id": "mp54ckepk3j6",
     "name": "FGM",
     "score": 0,
-    "color": null,
+    "color": "#ffe119",
     "pos": {
       "left": "177.162px",
       "top": "481.829px"
@@ -13,7 +13,7 @@
     "id": "mp54ckepauz4",
     "name": "CAY",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
       "left": "379.499px",
       "top": "472.5px"
@@ -23,7 +23,7 @@
     "id": "mp54ckep91o9",
     "name": "MIK",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
       "left": "560.163px",
       "top": "266.914px"
@@ -33,7 +33,7 @@
     "id": "mp54ckepi1hr",
     "name": "LOU",
     "score": 0,
-    "color": null,
+    "color": "#ffe119",
     "pos": {
       "left": "346.667px",
       "top": "267.161px"
@@ -75,8 +75,8 @@
     "score": 0,
     "color": null,
     "pos": {
-      "left": "703.079px",
-      "top": "119.831px"
+      "left": "280.156px",
+      "top": "109.414px"
     }
   },
   {
