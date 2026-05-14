@@ -4,76 +4,109 @@
     "name": "FGM",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "177.162px",
+      "top": "481.829px"
+    }
   },
   {
     "id": "mp54ckepauz4",
     "name": "CAY",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "379.499px",
+      "top": "472.5px"
+    }
   },
   {
     "id": "mp54ckep91o9",
     "name": "MIK",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "560.163px",
+      "top": "266.914px"
+    }
   },
   {
     "id": "mp54ckepi1hr",
     "name": "LOU",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "346.667px",
+      "top": "267.161px"
+    }
   },
   {
     "id": "mp54ckepa2e7",
     "name": "MAR",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "891.914px",
+      "top": "54.9154px"
+    }
   },
   {
     "id": "mp54ckephgxn",
     "name": "YEQ",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "1085.08px",
+      "top": "66.8294px"
+    }
   },
   {
     "id": "mp54ckepgvys",
     "name": "JPH",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "493.249px",
+      "top": "113.333px"
+    }
   },
   {
     "id": "mp54ckepypt0",
     "name": "HAY",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "703.079px",
+      "top": "119.831px"
+    }
   },
   {
     "id": "mp54ckepyi71",
     "name": "JOE",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "853.75px",
+      "top": "390.911px"
+    }
   },
   {
     "id": "mp54ckep2d9b",
     "name": "CJH",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "834.414px",
+      "top": "288.249px"
+    }
   },
   {
     "id": "mp54ckepgk9s",
     "name": "OLI",
     "score": 0,
     "color": null,
-    "pos": null
+    "pos": {
+      "left": "1051.33px",
+      "top": "356.829px"
+    }
   }
 ]
