@@ -2,7 +2,7 @@
   {
     "id": "mp54ckepk3j6",
     "name": "FGM",
-    "score": 2,
+    "score": 3,
     "color": "#ffe119",
     "pos": {
       "left": "177.162px",
@@ -12,7 +12,7 @@
   {
     "id": "mp54ckepauz4",
     "name": "CAY",
-    "score": 1,
+    "score": 2,
     "color": "#0082c8",
     "pos": {
       "left": "379.499px",
@@ -22,7 +22,7 @@
   {
     "id": "mp54ckep91o9",
     "name": "MIK",
-    "score": 1,
+    "score": 3,
     "color": "#0082c8",
     "pos": {
       "left": "560.163px",
@@ -42,7 +42,7 @@
   {
     "id": "mp54ckepa2e7",
     "name": "MAR",
-    "score": 3,
+    "score": 4,
     "color": "#ffe119",
     "pos": {
       "left": "891.914px",
@@ -62,7 +62,7 @@
   {
     "id": "mp54ckepgvys",
     "name": "JPH",
-    "score": 1,
+    "score": 3,
     "color": "#0082c8",
     "pos": {
       "left": "493.249px",
@@ -82,7 +82,7 @@
   {
     "id": "mp54ckepyi71",
     "name": "JOE",
-    "score": 1,
+    "score": 2,
     "color": "#ffe119",
     "pos": {
       "left": "853.75px",
@@ -102,7 +102,7 @@
   {
     "id": "mp54ckepgk9s",
     "name": "OLI",
-    "score": 2,
+    "score": 3,
     "color": "#0082c8",
     "pos": {
       "left": "1051.33px",
