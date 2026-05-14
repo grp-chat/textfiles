@@ -22,7 +22,7 @@
   {
     "id": "mp54ckep91o9",
     "name": "MIK",
-    "score": 1,
+    "score": 2,
     "color": "#0082c8",
     "pos": {
       "left": "560.163px",
@@ -62,7 +62,7 @@
   {
     "id": "mp54ckepgvys",
     "name": "JPH",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "493.249px",
@@ -102,7 +102,7 @@
   {
     "id": "mp54ckepgk9s",
     "name": "OLI",
-    "score": 1,
+    "score": 2,
     "color": "#0082c8",
     "pos": {
       "left": "1051.33px",
