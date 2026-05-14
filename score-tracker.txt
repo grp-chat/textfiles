@@ -2,7 +2,7 @@
   {
     "id": "mp53n5jwr2j2",
     "name": "FGM",
-    "score": 2,
+    "score": 3,
     "color": "#0082c8",
     "pos": {
       "left": "282.578px",
@@ -12,7 +12,7 @@
   {
     "id": "mp53n5jwaoed",
     "name": "CAY",
-    "score": 1,
+    "score": 2,
     "color": "#3cb44b",
     "pos": {
       "left": "45.332px",
@@ -22,7 +22,7 @@
   {
     "id": "mp53n5jwgtdv",
     "name": "LOU",
-    "score": 2,
+    "score": 3,
     "color": "#0082c8",
     "pos": {
       "left": "890.996px",
@@ -32,11 +32,11 @@
   {
     "id": "mp53n5jwhka1",
     "name": "MIK",
-    "score": 0,
+    "score": 1,
     "color": "#3cb44b",
     "pos": {
-      "left": "675.41px",
-      "top": "87.1615px"
+      "left": "689.987px",
+      "top": "110.911px"
     }
   },
   {
@@ -52,7 +52,7 @@
   {
     "id": "mp53n5jwzizg",
     "name": "JPH",
-    "score": 2,
+    "score": 4,
     "color": "#0082c8",
     "pos": {
       "left": "563.828px",
@@ -72,7 +72,7 @@
   {
     "id": "mp53n5jwpc2q",
     "name": "YEQ",
-    "score": 2,
+    "score": 4,
     "color": "#0082c8",
     "pos": {
       "left": "1148px",
@@ -102,7 +102,7 @@
   {
     "id": "mp53n5jwe8i9",
     "name": "OLI",
-    "score": 2,
+    "score": 4,
     "color": "#0082c8",
     "pos": {
       "left": "865.078px",
