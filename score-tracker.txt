@@ -12,7 +12,7 @@
   {
     "id": "mp54ckepauz4",
     "name": "CAY",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "379.499px",
@@ -32,7 +32,7 @@
   {
     "id": "mp54ckepi1hr",
     "name": "LOU",
-    "score": 0,
+    "score": 1,
     "color": "#ffe119",
     "pos": {
       "left": "346.667px",
@@ -42,7 +42,7 @@
   {
     "id": "mp54ckepa2e7",
     "name": "MAR",
-    "score": 0,
+    "score": 1,
     "color": "#ffe119",
     "pos": {
       "left": "891.914px",
@@ -62,7 +62,7 @@
   {
     "id": "mp54ckepgvys",
     "name": "JPH",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "493.249px",
@@ -102,7 +102,7 @@
   {
     "id": "mp54ckepgk9s",
     "name": "OLI",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "1051.33px",
