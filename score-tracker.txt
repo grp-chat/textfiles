@@ -32,7 +32,7 @@
   {
     "id": "mp54ckepi1hr",
     "name": "LOU",
-    "score": 0,
+    "score": 2,
     "color": "#ffe119",
     "pos": {
       "left": "346.667px",
@@ -42,7 +42,7 @@
   {
     "id": "mp54ckepa2e7",
     "name": "MAR",
-    "score": 1,
+    "score": 2,
     "color": "#ffe119",
     "pos": {
       "left": "891.914px",
@@ -102,7 +102,7 @@
   {
     "id": "mp54ckepgk9s",
     "name": "OLI",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "1051.33px",
