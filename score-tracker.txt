@@ -2,7 +2,7 @@
   {
     "id": "mp53n5jwr2j2",
     "name": "FGM",
-    "score": 0,
+    "score": 2,
     "color": "#0082c8",
     "pos": {
       "left": "282.578px",
@@ -22,7 +22,7 @@
   {
     "id": "mp53n5jwgtdv",
     "name": "LOU",
-    "score": 1,
+    "score": 2,
     "color": "#0082c8",
     "pos": {
       "left": "890.996px",
@@ -52,7 +52,7 @@
   {
     "id": "mp53n5jwzizg",
     "name": "JPH",
-    "score": 1,
+    "score": 2,
     "color": "#0082c8",
     "pos": {
       "left": "563.828px",
@@ -102,7 +102,7 @@
   {
     "id": "mp53n5jwe8i9",
     "name": "OLI",
-    "score": 1,
+    "score": 2,
     "color": "#0082c8",
     "pos": {
       "left": "865.078px",
