@@ -1,22 +1,79 @@
 [
   {
-    "id": "mo3prsceg7sf",
-    "name": "TEAM A",
+    "id": "mp53n5jwr2j2",
+    "name": "FGM",
     "score": 0,
-    "color": "#911eb4",
-    "pos": {
-      "left": "413px",
-      "top": "121.667px"
-    }
+    "color": null,
+    "pos": null
   },
   {
-    "id": "mo3prscealfl",
-    "name": "TEAM B",
+    "id": "mp53n5jwaoed",
+    "name": "CAY",
     "score": 0,
-    "color": "#0082c8",
-    "pos": {
-      "left": "684.333px",
-      "top": "134px"
-    }
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp53n5jwgtdv",
+    "name": "LOU",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp53n5jwhka1",
+    "name": "MIK",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp53n5jwlmzb",
+    "name": "MAR",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp53n5jwzizg",
+    "name": "JPH",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp53n5jws8gs",
+    "name": "HAY",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp53n5jwpc2q",
+    "name": "YEQ",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp53n5jwqmy5",
+    "name": "JOE",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp53n5jw7yzy",
+    "name": "CJH",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mp53n5jwe8i9",
+    "name": "OLI",
+    "score": 0,
+    "color": null,
+    "pos": null
   }
 ]
