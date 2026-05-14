@@ -43,7 +43,7 @@
     "id": "mp54ckepa2e7",
     "name": "MAR",
     "score": 0,
-    "color": null,
+    "color": "#ffe119",
     "pos": {
       "left": "891.914px",
       "top": "54.9154px"
@@ -53,7 +53,7 @@
     "id": "mp54ckephgxn",
     "name": "YEQ",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
       "left": "1085.08px",
       "top": "66.8294px"
@@ -63,7 +63,7 @@
     "id": "mp54ckepgvys",
     "name": "JPH",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
       "left": "493.249px",
       "top": "113.333px"
@@ -73,7 +73,7 @@
     "id": "mp54ckepypt0",
     "name": "HAY",
     "score": 0,
-    "color": null,
+    "color": "#ffe119",
     "pos": {
       "left": "280.156px",
       "top": "109.414px"
@@ -83,7 +83,7 @@
     "id": "mp54ckepyi71",
     "name": "JOE",
     "score": 0,
-    "color": null,
+    "color": "#ffe119",
     "pos": {
       "left": "853.75px",
       "top": "390.911px"
@@ -93,7 +93,7 @@
     "id": "mp54ckep2d9b",
     "name": "CJH",
     "score": 0,
-    "color": null,
+    "color": "#ffe119",
     "pos": {
       "left": "834.414px",
       "top": "288.249px"
@@ -103,7 +103,7 @@
     "id": "mp54ckepgk9s",
     "name": "OLI",
     "score": 0,
-    "color": null,
+    "color": "#0082c8",
     "pos": {
       "left": "1051.33px",
       "top": "356.829px"
