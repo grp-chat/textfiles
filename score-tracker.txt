@@ -72,7 +72,7 @@
   {
     "id": "mp53n5jwpc2q",
     "name": "YEQ",
-    "score": 1,
+    "score": 2,
     "color": "#0082c8",
     "pos": {
       "left": "1148px",
