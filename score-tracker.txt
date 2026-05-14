@@ -12,7 +12,7 @@
   {
     "id": "mp53n5jwaoed",
     "name": "CAY",
-    "score": 0,
+    "score": 1,
     "color": "#3cb44b",
     "pos": {
       "left": "45.332px",
@@ -22,7 +22,7 @@
   {
     "id": "mp53n5jwgtdv",
     "name": "LOU",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "890.996px",
@@ -52,7 +52,7 @@
   {
     "id": "mp53n5jwzizg",
     "name": "JPH",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "563.828px",
@@ -72,7 +72,7 @@
   {
     "id": "mp53n5jwpc2q",
     "name": "YEQ",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "1148px",
@@ -102,7 +102,7 @@
   {
     "id": "mp53n5jwe8i9",
     "name": "OLI",
-    "score": 0,
+    "score": 1,
     "color": "#0082c8",
     "pos": {
       "left": "865.078px",
