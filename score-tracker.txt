@@ -3,28 +3,40 @@
     "id": "mq0ifjon6nu9",
     "name": "POWER PUFF GIRLS",
     "score": 0,
-    "color": null,
-    "pos": null
+    "color": "#f58231",
+    "pos": {
+      "left": "683.333px",
+      "top": "47.3333px"
+    }
   },
   {
     "id": "mq0ifjonixqf",
     "name": "TMNT",
     "score": 0,
-    "color": null,
-    "pos": null
+    "color": "#ffe119",
+    "pos": {
+      "left": "467.667px",
+      "top": "45.6667px"
+    }
   },
   {
     "id": "mq0ifjonhm03",
     "name": "TWC",
     "score": 0,
-    "color": null,
-    "pos": null
+    "color": "#e6194b",
+    "pos": {
+      "left": "233.667px",
+      "top": "50.6667px"
+    }
   },
   {
     "id": "mq0ifjoni4vc",
     "name": "ABS",
     "score": 0,
-    "color": null,
-    "pos": null
+    "color": "#3cb44b",
+    "pos": {
+      "left": "13.6667px",
+      "top": "48.6667px"
+    }
   }
 ]
