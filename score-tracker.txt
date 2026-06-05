@@ -1,112 +1,30 @@
 [
   {
-    "id": "mp54ckepk3j6",
-    "name": "FGM",
-    "score": 3,
-    "color": "#ffe119",
-    "pos": {
-      "left": "177.162px",
-      "top": "481.829px"
-    }
-  },
-  {
-    "id": "mp54ckepauz4",
-    "name": "CAY",
-    "score": 2,
-    "color": "#0082c8",
-    "pos": {
-      "left": "379.499px",
-      "top": "472.5px"
-    }
-  },
-  {
-    "id": "mp54ckep91o9",
-    "name": "MIK",
-    "score": 3,
-    "color": "#0082c8",
-    "pos": {
-      "left": "560.163px",
-      "top": "266.914px"
-    }
-  },
-  {
-    "id": "mp54ckepi1hr",
-    "name": "LOU",
-    "score": 3,
-    "color": "#ffe119",
-    "pos": {
-      "left": "346.667px",
-      "top": "267.161px"
-    }
-  },
-  {
-    "id": "mp54ckepa2e7",
-    "name": "MAR",
-    "score": 4,
-    "color": "#ffe119",
-    "pos": {
-      "left": "891.914px",
-      "top": "54.9154px"
-    }
-  },
-  {
-    "id": "mp54ckephgxn",
-    "name": "YEQ",
+    "id": "mq0ifjon6nu9",
+    "name": "POWER PUFF GIRLS",
     "score": 0,
-    "color": "#0082c8",
-    "pos": {
-      "left": "1085.08px",
-      "top": "66.8294px"
-    }
+    "color": null,
+    "pos": null
   },
   {
-    "id": "mp54ckepgvys",
-    "name": "JPH",
-    "score": 3,
-    "color": "#0082c8",
-    "pos": {
-      "left": "493.249px",
-      "top": "113.333px"
-    }
-  },
-  {
-    "id": "mp54ckepypt0",
-    "name": "HAY",
-    "score": 1,
-    "color": "#ffe119",
-    "pos": {
-      "left": "280.156px",
-      "top": "109.414px"
-    }
-  },
-  {
-    "id": "mp54ckepyi71",
-    "name": "JOE",
-    "score": 2,
-    "color": "#ffe119",
-    "pos": {
-      "left": "853.75px",
-      "top": "390.911px"
-    }
-  },
-  {
-    "id": "mp54ckep2d9b",
-    "name": "CJH",
+    "id": "mq0ifjonixqf",
+    "name": "TMNT",
     "score": 0,
-    "color": "#ffe119",
-    "pos": {
-      "left": "834.414px",
-      "top": "288.249px"
-    }
+    "color": null,
+    "pos": null
   },
   {
-    "id": "mp54ckepgk9s",
-    "name": "OLI",
-    "score": 3,
-    "color": "#0082c8",
-    "pos": {
-      "left": "1051.33px",
-      "top": "356.829px"
-    }
+    "id": "mq0ifjonhm03",
+    "name": "TWC",
+    "score": 0,
+    "color": null,
+    "pos": null
+  },
+  {
+    "id": "mq0ifjoni4vc",
+    "name": "ABS",
+    "score": 0,
+    "color": null,
+    "pos": null
   }
 ]
