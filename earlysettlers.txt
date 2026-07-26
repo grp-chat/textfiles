@@ -9,70 +9,70 @@
           "id": "pupffbz6zq",
           "name": "YUN",
           "teamId": "red",
-          "groupId": 0,
+          "groupId": 1,
           "absent": false
         },
         {
           "id": "pq01fy82ec",
           "name": "HUI",
           "teamId": "green",
-          "groupId": 0,
+          "groupId": 2,
           "absent": false
         },
         {
           "id": "pcisdwe0oj",
           "name": "CT",
           "teamId": "green",
-          "groupId": 0,
+          "groupId": 2,
           "absent": false
         },
         {
           "id": "p9986am0th",
           "name": "NT",
           "teamId": "red",
-          "groupId": 0,
+          "groupId": 3,
           "absent": false
         },
         {
           "id": "pzwvkk3usk",
           "name": "NZQ",
           "teamId": "blue",
-          "groupId": 0,
+          "groupId": 1,
           "absent": false
         },
         {
           "id": "pp8mpmlomj",
           "name": "ANT",
           "teamId": "blue",
-          "groupId": 0,
+          "groupId": 2,
           "absent": false
         },
         {
           "id": "p1yuwdka5p",
           "name": "CHS",
           "teamId": "red",
-          "groupId": 0,
+          "groupId": 2,
           "absent": false
         },
         {
           "id": "pp3k74oyyt",
           "name": "CRQ",
           "teamId": "green",
-          "groupId": 0,
+          "groupId": 1,
           "absent": false
         },
         {
           "id": "pncg3ar249",
           "name": "KYK",
           "teamId": "blue",
-          "groupId": 0,
+          "groupId": 3,
           "absent": false
         },
         {
           "id": "p5z79h5q06",
           "name": "CUR",
           "teamId": "blue",
-          "groupId": 0,
+          "groupId": 3,
           "absent": false
         }
       ],
