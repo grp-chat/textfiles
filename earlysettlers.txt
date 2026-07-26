@@ -91,11 +91,9 @@
   "config": {
     "resourceTemplate": [
       "wood",
-      "wood",
-      "clay",
       "clay",
       "stone",
-      "stone"
+      "random"
     ]
   }
 }
