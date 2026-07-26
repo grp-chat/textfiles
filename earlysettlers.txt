@@ -8,7 +8,7 @@
         {
           "id": "pupffbz6zq",
           "name": "YUN",
-          "teamId": "purple",
+          "teamId": "red",
           "groupId": 0,
           "absent": false
         },
@@ -29,7 +29,7 @@
         {
           "id": "p9986am0th",
           "name": "NT",
-          "teamId": "purple",
+          "teamId": "red",
           "groupId": 0,
           "absent": false
         },
@@ -50,7 +50,7 @@
         {
           "id": "p1yuwdka5p",
           "name": "CHS",
-          "teamId": "purple",
+          "teamId": "red",
           "groupId": 0,
           "absent": false
         },
