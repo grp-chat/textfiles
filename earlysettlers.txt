@@ -44,7 +44,7 @@
           "id": "pp8mpmlomj",
           "name": "ANT",
           "teamId": "blue",
-          "groupId": 3,
+          "groupId": 2,
           "absent": false
         },
         {
@@ -78,7 +78,7 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 0,
+          "wood": 1,
           "clay": 0,
           "stone": 0,
           "points": 0,
@@ -87,13 +87,13 @@
         },
         "blue": {
           "wood": 0,
-          "clay": 0,
+          "clay": 1,
           "stone": 0,
           "points": 0,
           "buildings": [],
           "woodBonusCounter": 0
         },
-        "green": {
+        "none": {
           "wood": 0,
           "clay": 0,
           "stone": 0,
