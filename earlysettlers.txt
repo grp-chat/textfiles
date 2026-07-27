@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 2,
-          "clay": 2,
-          "stone": 2,
-          "points": 12,
+          "wood": 0,
+          "clay": 0,
+          "stone": 0,
+          "points": 15,
           "buildings": [
             {
               "id": "stable",
@@ -130,6 +130,12 @@
               "name": "Animal Pen",
               "builtBy": "YUN",
               "timestamp": 1785134656252
+            },
+            {
+              "id": "cottage",
+              "name": "Cottage",
+              "builtBy": "YUN",
+              "timestamp": 1785134926474
             }
           ],
           "woodBonusCounter": 3
