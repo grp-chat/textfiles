@@ -78,19 +78,57 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 7,
-          "clay": 2,
-          "stone": 3,
-          "points": 0,
-          "buildings": [],
+          "wood": 2,
+          "clay": 1,
+          "stone": 2,
+          "points": 4,
+          "buildings": [
+            {
+              "id": "stable",
+              "name": "Stable",
+              "builtBy": "YUN",
+              "timestamp": 1785133280842
+            },
+            {
+              "id": "carriage",
+              "name": "Carriage",
+              "builtBy": "YUN",
+              "timestamp": 1785133284395
+            },
+            {
+              "id": "carriage",
+              "name": "Carriage",
+              "builtBy": "YUN",
+              "timestamp": 1785133287083
+            }
+          ],
           "woodBonusCounter": 0
         },
         "blue": {
-          "wood": 5,
-          "clay": 4,
-          "stone": 3,
-          "points": 0,
-          "buildings": [],
+          "wood": 0,
+          "clay": 1,
+          "stone": 1,
+          "points": 3,
+          "buildings": [
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "NZQ",
+              "timestamp": 1785133240226
+            },
+            {
+              "id": "lumber_mill",
+              "name": "Lumber Mill",
+              "builtBy": "NZQ",
+              "timestamp": 1785133308962
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "NZQ",
+              "timestamp": 1785133314492
+            }
+          ],
           "woodBonusCounter": 0
         },
         "none": {
