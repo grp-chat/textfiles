@@ -16,13 +16,13 @@
           "id": "pq01fy82ec",
           "name": "HUI",
           "teamId": "blue",
-          "groupId": 2,
+          "groupId": 3,
           "absent": false
         },
         {
           "id": "pcisdwe0oj",
           "name": "CT",
-          "teamId": "green",
+          "teamId": "red",
           "groupId": 2,
           "absent": false
         },
@@ -30,7 +30,7 @@
           "id": "p9986am0th",
           "name": "NT",
           "teamId": "red",
-          "groupId": 3,
+          "groupId": 4,
           "absent": false
         },
         {
@@ -43,7 +43,7 @@
         {
           "id": "pp8mpmlomj",
           "name": "ANT",
-          "teamId": "red",
+          "teamId": "blue",
           "groupId": 3,
           "absent": false
         },
@@ -51,33 +51,49 @@
           "id": "p1yuwdka5p",
           "name": "CHS",
           "teamId": "red",
-          "groupId": 2,
+          "groupId": 3,
           "absent": false
         },
         {
           "id": "pp3k74oyyt",
           "name": "CRQ",
-          "teamId": "green",
-          "groupId": 1,
+          "teamId": "none",
+          "groupId": 0,
           "absent": false
         },
         {
           "id": "pncg3ar249",
           "name": "KYK",
           "teamId": "blue",
-          "groupId": 3,
+          "groupId": 4,
           "absent": false
         },
         {
           "id": "p5z79h5q06",
           "name": "CUR",
-          "teamId": "blue",
-          "groupId": 3,
+          "teamId": "none",
+          "groupId": 0,
           "absent": false
         }
       ],
       "teamStats": {
-        "none": {
+        "red": {
+          "wood": 0,
+          "clay": 0,
+          "stone": 0,
+          "points": 0,
+          "buildings": [],
+          "woodBonusCounter": 0
+        },
+        "blue": {
+          "wood": 0,
+          "clay": 0,
+          "stone": 0,
+          "points": 0,
+          "buildings": [],
+          "woodBonusCounter": 0
+        },
+        "green": {
           "wood": 0,
           "clay": 0,
           "stone": 0,
