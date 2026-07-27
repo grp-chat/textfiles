@@ -105,10 +105,10 @@
           "woodBonusCounter": 0
         },
         "blue": {
-          "wood": 2,
-          "clay": 2,
-          "stone": 2,
-          "points": 3,
+          "wood": 0,
+          "clay": 0,
+          "stone": 0,
+          "points": 6,
           "buildings": [
             {
               "id": "garden",
@@ -127,6 +127,18 @@
               "name": "Garden",
               "builtBy": "NZQ",
               "timestamp": 1785133314492
+            },
+            {
+              "id": "cooking_hearth",
+              "name": "Cooking Hearth",
+              "builtBy": "NZQ",
+              "timestamp": 1785133567058
+            },
+            {
+              "id": "stable",
+              "name": "Stable",
+              "builtBy": "NZQ",
+              "timestamp": 1785133586739
             }
           ],
           "woodBonusCounter": 2
