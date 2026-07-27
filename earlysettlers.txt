@@ -123,10 +123,10 @@
           "woodBonusCounter": 1
         },
         "blue": {
-          "wood": 2,
-          "clay": 2,
-          "stone": 3,
-          "points": 9,
+          "wood": 0,
+          "clay": 0,
+          "stone": 1,
+          "points": 12,
           "buildings": [
             {
               "id": "garden",
@@ -175,6 +175,12 @@
               "name": "Clay Oven",
               "builtBy": "NZQ",
               "timestamp": 1785134252914
+            },
+            {
+              "id": "cottage",
+              "name": "Cottage",
+              "builtBy": "NZQ",
+              "timestamp": 1785134624853
             }
           ],
           "woodBonusCounter": 2
