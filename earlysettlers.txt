@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 3,
-          "clay": 3,
-          "stone": 2,
-          "points": 9,
+          "wood": 0,
+          "clay": 1,
+          "stone": 1,
+          "points": 12,
           "buildings": [
             {
               "id": "stable",
@@ -118,6 +118,18 @@
               "name": "Boat",
               "builtBy": "YUN",
               "timestamp": 1785134349257
+            },
+            {
+              "id": "boat",
+              "name": "Boat",
+              "builtBy": "YUN",
+              "timestamp": 1785134654331
+            },
+            {
+              "id": "animal_pen",
+              "name": "Animal Pen",
+              "builtBy": "YUN",
+              "timestamp": 1785134656252
             }
           ],
           "woodBonusCounter": 1
