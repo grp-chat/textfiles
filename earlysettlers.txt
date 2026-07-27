@@ -111,10 +111,10 @@
           "woodBonusCounter": 0
         },
         "blue": {
-          "wood": 1,
+          "wood": 0,
           "clay": 1,
-          "stone": 2,
-          "points": 6,
+          "stone": 1,
+          "points": 7,
           "buildings": [
             {
               "id": "garden",
@@ -145,6 +145,12 @@
               "name": "Stable",
               "builtBy": "NZQ",
               "timestamp": 1785133586739
+            },
+            {
+              "id": "fireplace",
+              "name": "Fireplace",
+              "builtBy": "NZQ",
+              "timestamp": 1785133871144
             }
           ],
           "woodBonusCounter": 3
