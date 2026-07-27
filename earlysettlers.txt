@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 3,
-          "clay": 1,
-          "stone": 1,
-          "points": 15,
+          "wood": 0,
+          "clay": 0,
+          "stone": 0,
+          "points": 17,
           "buildings": [
             {
               "id": "stable",
@@ -136,6 +136,18 @@
               "name": "Cottage",
               "builtBy": "YUN",
               "timestamp": 1785134926474
+            },
+            {
+              "id": "carriage",
+              "name": "Carriage",
+              "builtBy": "YUN",
+              "timestamp": 1785135331679
+            },
+            {
+              "id": "cooking_hearth",
+              "name": "Cooking Hearth",
+              "builtBy": "YUN",
+              "timestamp": 1785135336829
             }
           ],
           "woodBonusCounter": 1
