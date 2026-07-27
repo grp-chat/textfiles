@@ -112,9 +112,9 @@
         },
         "blue": {
           "wood": 0,
-          "clay": 2,
+          "clay": 0,
           "stone": 3,
-          "points": 8,
+          "points": 9,
           "buildings": [
             {
               "id": "garden",
@@ -157,6 +157,12 @@
               "name": "Carriage",
               "builtBy": "NZQ",
               "timestamp": 1785134235447
+            },
+            {
+              "id": "clay_oven",
+              "name": "Clay Oven",
+              "builtBy": "NZQ",
+              "timestamp": 1785134252914
             }
           ],
           "woodBonusCounter": 0
