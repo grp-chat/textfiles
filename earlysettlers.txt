@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 11,
-          "clay": 6,
-          "stone": 10,
-          "points": 21,
+          "wood": 7,
+          "clay": 4,
+          "stone": 4,
+          "points": 25,
           "buildings": [
             {
               "id": "stable",
@@ -160,6 +160,30 @@
               "name": "Farm House",
               "builtBy": "YUN",
               "timestamp": 1785737518258
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "YUN",
+              "timestamp": 1785739816204
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "YUN",
+              "timestamp": 1785739818370
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "YUN",
+              "timestamp": 1785739820158
+            },
+            {
+              "id": "well",
+              "name": "Well",
+              "builtBy": "CRQ",
+              "timestamp": 1785739846321
             }
           ],
           "woodBonusCounter": 1
@@ -167,7 +191,7 @@
         "blue": {
           "wood": 11,
           "clay": 9,
-          "stone": 8,
+          "stone": 9,
           "points": 20,
           "buildings": [
             {
