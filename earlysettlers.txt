@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 4,
-          "clay": 4,
-          "stone": 3,
-          "points": 17,
+          "wood": 1,
+          "clay": 1,
+          "stone": 1,
+          "points": 21,
           "buildings": [
             {
               "id": "stable",
@@ -148,14 +148,26 @@
               "name": "Cooking Hearth",
               "builtBy": "YUN",
               "timestamp": 1785135336829
+            },
+            {
+              "id": "cooking_hearth",
+              "name": "Cooking Hearth",
+              "builtBy": "YUN",
+              "timestamp": 1785737513126
+            },
+            {
+              "id": "farm_house",
+              "name": "Farm House",
+              "builtBy": "YUN",
+              "timestamp": 1785737518258
             }
           ],
-          "woodBonusCounter": 0
+          "woodBonusCounter": 1
         },
         "blue": {
           "wood": 3,
           "clay": 2,
-          "stone": 2,
+          "stone": 3,
           "points": 19,
           "buildings": [
             {
