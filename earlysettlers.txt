@@ -153,10 +153,10 @@
           "woodBonusCounter": 3
         },
         "blue": {
-          "wood": 4,
-          "clay": 2,
-          "stone": 2,
-          "points": 16,
+          "wood": 1,
+          "clay": 0,
+          "stone": 1,
+          "points": 19,
           "buildings": [
             {
               "id": "garden",
@@ -223,6 +223,12 @@
               "name": "Cooking Hearth",
               "builtBy": "NZQ",
               "timestamp": 1785135378571
+            },
+            {
+              "id": "farm_house",
+              "name": "Farm House",
+              "builtBy": "NZQ",
+              "timestamp": 1785736891306
             }
           ],
           "woodBonusCounter": 0
