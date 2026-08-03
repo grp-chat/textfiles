@@ -165,10 +165,10 @@
           "woodBonusCounter": 0
         },
         "blue": {
-          "wood": 6,
-          "clay": 4,
+          "wood": 3,
+          "clay": 3,
           "stone": 4,
-          "points": 19,
+          "points": 20,
           "buildings": [
             {
               "id": "garden",
@@ -241,6 +241,12 @@
               "name": "Farm House",
               "builtBy": "NZQ",
               "timestamp": 1785736891306
+            },
+            {
+              "id": "lumber_mill",
+              "name": "Lumber Mill",
+              "builtBy": "NZQ",
+              "timestamp": 1785738228536
             }
           ],
           "woodBonusCounter": 0
