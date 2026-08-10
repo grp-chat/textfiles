@@ -207,10 +207,10 @@
           "woodBonusCounter": 2
         },
         "blue": {
-          "wood": 17,
-          "clay": 13,
-          "stone": 20,
-          "points": 25,
+          "wood": 16,
+          "clay": 12,
+          "stone": 19,
+          "points": 26,
           "buildings": [
             {
               "id": "garden",
@@ -295,6 +295,12 @@
               "name": "Holiday House",
               "builtBy": "NZQ",
               "timestamp": 1786344457771
+            },
+            {
+              "id": "garden",
+              "name": "Garden",
+              "builtBy": "NZQ",
+              "timestamp": 1786344541831
             }
           ],
           "woodBonusCounter": 3
