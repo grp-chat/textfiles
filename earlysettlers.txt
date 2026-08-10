@@ -78,9 +78,9 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 11,
+          "wood": 12,
           "clay": 6,
-          "stone": 3,
+          "stone": 5,
           "points": 38,
           "buildings": [
             {
@@ -204,13 +204,13 @@
               "timestamp": 1786342775689
             }
           ],
-          "woodBonusCounter": 1
+          "woodBonusCounter": 2
         },
         "blue": {
-          "wood": 20,
-          "clay": 19,
-          "stone": 19,
-          "points": 20,
+          "wood": 17,
+          "clay": 13,
+          "stone": 20,
+          "points": 25,
           "buildings": [
             {
               "id": "garden",
@@ -289,9 +289,15 @@
               "name": "Lumber Mill",
               "builtBy": "NZQ",
               "timestamp": 1785738228536
+            },
+            {
+              "id": "holiday_house",
+              "name": "Holiday House",
+              "builtBy": "NZQ",
+              "timestamp": 1786344457771
             }
           ],
-          "woodBonusCounter": 2
+          "woodBonusCounter": 3
         },
         "none": {
           "wood": 0,
