@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 12,
-          "clay": 5,
-          "stone": 5,
-          "points": 25,
+          "wood": 11,
+          "clay": 4,
+          "stone": 0,
+          "points": 29,
           "buildings": [
             {
               "id": "stable",
@@ -184,6 +184,12 @@
               "name": "Well",
               "builtBy": "CRQ",
               "timestamp": 1785739846321
+            },
+            {
+              "id": "conservatory",
+              "name": "Conservatory",
+              "builtBy": "CHS",
+              "timestamp": 1786341573590
             }
           ],
           "woodBonusCounter": 1
