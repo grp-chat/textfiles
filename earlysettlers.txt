@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 13,
-          "clay": 5,
+          "wood": 11,
+          "clay": 1,
           "stone": 5,
-          "points": 29,
+          "points": 32,
           "buildings": [
             {
               "id": "stable",
@@ -190,12 +190,18 @@
               "name": "Conservatory",
               "builtBy": "CHS",
               "timestamp": 1786341573590
+            },
+            {
+              "id": "stone_house",
+              "name": "Stone House",
+              "builtBy": "CHS",
+              "timestamp": 1786342169593
             }
           ],
           "woodBonusCounter": 3
         },
         "blue": {
-          "wood": 15,
+          "wood": 16,
           "clay": 15,
           "stone": 14,
           "points": 20,
@@ -279,7 +285,7 @@
               "timestamp": 1785738228536
             }
           ],
-          "woodBonusCounter": 2
+          "woodBonusCounter": 3
         },
         "none": {
           "wood": 0,
