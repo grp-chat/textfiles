@@ -79,7 +79,7 @@
       "teamStats": {
         "red": {
           "wood": 11,
-          "clay": 2,
+          "clay": 3,
           "stone": 5,
           "points": 34,
           "buildings": [
@@ -203,7 +203,7 @@
         "blue": {
           "wood": 18,
           "clay": 17,
-          "stone": 15,
+          "stone": 16,
           "points": 20,
           "buildings": [
             {
