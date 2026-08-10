@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 13,
-          "clay": 3,
+          "wood": 11,
+          "clay": 1,
           "stone": 5,
-          "points": 32,
+          "points": 34,
           "buildings": [
             {
               "id": "stable",
@@ -192,10 +192,10 @@
               "timestamp": 1786341573590
             },
             {
-              "id": "stone_house",
-              "name": "Stone House",
+              "id": "holiday_house",
+              "name": "Holiday House",
               "builtBy": "CHS",
-              "timestamp": 1786342169593
+              "timestamp": 1786342395085
             }
           ],
           "woodBonusCounter": 0
