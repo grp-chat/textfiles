@@ -78,9 +78,9 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 12,
-          "clay": 4,
-          "stone": 4,
+          "wood": 13,
+          "clay": 5,
+          "stone": 5,
           "points": 29,
           "buildings": [
             {
@@ -192,12 +192,12 @@
               "timestamp": 1786341573590
             }
           ],
-          "woodBonusCounter": 2
+          "woodBonusCounter": 3
         },
         "blue": {
           "wood": 15,
-          "clay": 13,
-          "stone": 13,
+          "clay": 15,
+          "stone": 14,
           "points": 20,
           "buildings": [
             {
