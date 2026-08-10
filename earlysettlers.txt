@@ -207,10 +207,10 @@
           "woodBonusCounter": 2
         },
         "blue": {
-          "wood": 16,
-          "clay": 12,
-          "stone": 19,
-          "points": 26,
+          "wood": 12,
+          "clay": 9,
+          "stone": 9,
+          "points": 34,
           "buildings": [
             {
               "id": "garden",
@@ -301,6 +301,24 @@
               "name": "Garden",
               "builtBy": "NZQ",
               "timestamp": 1786344541831
+            },
+            {
+              "id": "well",
+              "name": "Well",
+              "builtBy": "NZQ",
+              "timestamp": 1786344571344
+            },
+            {
+              "id": "conservatory",
+              "name": "Conservatory",
+              "builtBy": "NZQ",
+              "timestamp": 1786344576891
+            },
+            {
+              "id": "cottage",
+              "name": "Cottage",
+              "builtBy": "NZQ",
+              "timestamp": 1786344594924
             }
           ],
           "woodBonusCounter": 3
