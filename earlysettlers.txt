@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 10,
-          "clay": 4,
-          "stone": 3,
-          "points": 41,
+          "wood": 5,
+          "clay": 0,
+          "stone": 0,
+          "points": 47,
           "buildings": [
             {
               "id": "stable",
@@ -208,6 +208,18 @@
               "name": "Cottage",
               "builtBy": "YUN",
               "timestamp": 1786344816494
+            },
+            {
+              "id": "cottage",
+              "name": "Cottage",
+              "builtBy": "YUN",
+              "timestamp": 1786344856804
+            },
+            {
+              "id": "farm_house",
+              "name": "Farm House",
+              "builtBy": "YUN",
+              "timestamp": 1786344933574
             }
           ],
           "woodBonusCounter": 2
