@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 11,
-          "clay": 3,
-          "stone": 5,
-          "points": 34,
+          "wood": 10,
+          "clay": 4,
+          "stone": 0,
+          "points": 38,
           "buildings": [
             {
               "id": "stable",
@@ -196,6 +196,12 @@
               "name": "Holiday House",
               "builtBy": "CHS",
               "timestamp": 1786342395085
+            },
+            {
+              "id": "conservatory",
+              "name": "Conservatory",
+              "builtBy": "CRQ",
+              "timestamp": 1786342775689
             }
           ],
           "woodBonusCounter": 0
@@ -203,7 +209,7 @@
         "blue": {
           "wood": 18,
           "clay": 17,
-          "stone": 16,
+          "stone": 18,
           "points": 20,
           "buildings": [
             {
