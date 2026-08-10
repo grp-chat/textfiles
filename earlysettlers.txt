@@ -78,10 +78,10 @@
       ],
       "teamStats": {
         "red": {
-          "wood": 12,
-          "clay": 6,
-          "stone": 5,
-          "points": 38,
+          "wood": 10,
+          "clay": 4,
+          "stone": 3,
+          "points": 41,
           "buildings": [
             {
               "id": "stable",
@@ -202,15 +202,21 @@
               "name": "Conservatory",
               "builtBy": "CRQ",
               "timestamp": 1786342775689
+            },
+            {
+              "id": "cottage",
+              "name": "Cottage",
+              "builtBy": "YUN",
+              "timestamp": 1786344816494
             }
           ],
           "woodBonusCounter": 2
         },
         "blue": {
-          "wood": 6,
+          "wood": 4,
           "clay": 0,
-          "stone": 7,
-          "points": 42,
+          "stone": 5,
+          "points": 44,
           "buildings": [
             {
               "id": "garden",
@@ -331,6 +337,18 @@
               "name": "Holiday House",
               "builtBy": "NZQ",
               "timestamp": 1786344655851
+            },
+            {
+              "id": "fireplace",
+              "name": "Fireplace",
+              "builtBy": "NZQ",
+              "timestamp": 1786344730404
+            },
+            {
+              "id": "fireplace",
+              "name": "Fireplace",
+              "builtBy": "NZQ",
+              "timestamp": 1786344750354
             }
           ],
           "woodBonusCounter": 3
